@@ -1,0 +1,1501 @@
+sentence,class
+If Rachel lives in Ashkāsham then Rachel lives in Badakhshan,1
+If Rachel lives in Ashkāsham then Rachel lives in Afghanistan,1
+If Rachel lives in Ashkāsham then Rachel lives in Asia,1
+If Rachel lives in Badakhshan then Rachel lives in Afghanistan,1
+If Rachel lives in Badakhshan then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Ashkāsham then Rachel lives in Badakhshan and If Rachel lives in Ashkāsham then Rachel lives in Afghanistan,2
+If Rachel lives in Ashkāsham then Rachel lives in Badakhshan or If Rachel lives in Ashkāsham then Rachel lives in Afghanistan,3
+If Rachel lives in Ashkāsham then Rachel lives in Afghanistan and If Rachel lives in Badakhshan then Rachel lives in Afghanistan,4
+If Rachel lives in Ashkāsham then Rachel lives in Asia and If Rachel lives in Badakhshan then Rachel lives in Asia,4
+If Rachel lives in Ashkāsham then Rachel lives in Afghanistan or If Rachel lives in Badakhshan then Rachel lives in Afghanistan,5
+If Rachel lives in Ashkāsham then Rachel lives in Asia or If Rachel lives in Badakhshan then Rachel lives in Asia,5
+If Lily lives in Fayzabad then Lily lives in Badakhshan,1
+If Lily lives in Fayzabad then Lily lives in Afghanistan,1
+If Lily lives in Fayzabad then Lily lives in Asia,1
+If Lily lives in Badakhshan then Lily lives in Afghanistan,1
+If Lily lives in Badakhshan then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Fayzabad then Lily lives in Badakhshan and If Lily lives in Fayzabad then Lily lives in Afghanistan,2
+If Lily lives in Fayzabad then Lily lives in Badakhshan or If Lily lives in Fayzabad then Lily lives in Afghanistan,3
+If Lily lives in Fayzabad then Lily lives in Afghanistan and If Lily lives in Badakhshan then Lily lives in Afghanistan,4
+If Lily lives in Fayzabad then Lily lives in Asia and If Lily lives in Badakhshan then Lily lives in Asia,4
+If Lily lives in Fayzabad then Lily lives in Afghanistan or If Lily lives in Badakhshan then Lily lives in Afghanistan,5
+If Lily lives in Fayzabad then Lily lives in Asia or If Lily lives in Badakhshan then Lily lives in Asia,5
+If Rachel lives in Jurm then Rachel lives in Badakhshan,1
+If Rachel lives in Jurm then Rachel lives in Afghanistan,1
+If Rachel lives in Jurm then Rachel lives in Asia,1
+If Rachel lives in Badakhshan then Rachel lives in Afghanistan,1
+If Rachel lives in Badakhshan then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Jurm then Rachel lives in Badakhshan and If Rachel lives in Jurm then Rachel lives in Afghanistan,2
+If Rachel lives in Jurm then Rachel lives in Badakhshan or If Rachel lives in Jurm then Rachel lives in Afghanistan,3
+If Rachel lives in Jurm then Rachel lives in Afghanistan and If Rachel lives in Badakhshan then Rachel lives in Afghanistan,4
+If Rachel lives in Jurm then Rachel lives in Asia and If Rachel lives in Badakhshan then Rachel lives in Asia,4
+If Rachel lives in Jurm then Rachel lives in Afghanistan or If Rachel lives in Badakhshan then Rachel lives in Afghanistan,5
+If Rachel lives in Jurm then Rachel lives in Asia or If Rachel lives in Badakhshan then Rachel lives in Asia,5
+If Xena lives in Khandūd then Xena lives in Badakhshan,1
+If Xena lives in Khandūd then Xena lives in Afghanistan,1
+If Xena lives in Khandūd then Xena lives in Asia,1
+If Xena lives in Badakhshan then Xena lives in Afghanistan,1
+If Xena lives in Badakhshan then Xena lives in Asia,1
+If Xena lives in Afghanistan then Xena lives in Asia,1
+If Xena lives in Khandūd then Xena lives in Badakhshan and If Xena lives in Khandūd then Xena lives in Afghanistan,2
+If Xena lives in Khandūd then Xena lives in Badakhshan or If Xena lives in Khandūd then Xena lives in Afghanistan,3
+If Xena lives in Khandūd then Xena lives in Afghanistan and If Xena lives in Badakhshan then Xena lives in Afghanistan,4
+If Xena lives in Khandūd then Xena lives in Asia and If Xena lives in Badakhshan then Xena lives in Asia,4
+If Xena lives in Khandūd then Xena lives in Afghanistan or If Xena lives in Badakhshan then Xena lives in Afghanistan,5
+If Xena lives in Khandūd then Xena lives in Asia or If Xena lives in Badakhshan then Xena lives in Asia,5
+If Ian lives in Rāghistān then Ian lives in Badakhshan,1
+If Ian lives in Rāghistān then Ian lives in Afghanistan,1
+If Ian lives in Rāghistān then Ian lives in Asia,1
+If Ian lives in Badakhshan then Ian lives in Afghanistan,1
+If Ian lives in Badakhshan then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Rāghistān then Ian lives in Badakhshan and If Ian lives in Rāghistān then Ian lives in Afghanistan,2
+If Ian lives in Rāghistān then Ian lives in Badakhshan or If Ian lives in Rāghistān then Ian lives in Afghanistan,3
+If Ian lives in Rāghistān then Ian lives in Afghanistan and If Ian lives in Badakhshan then Ian lives in Afghanistan,4
+If Ian lives in Rāghistān then Ian lives in Asia and If Ian lives in Badakhshan then Ian lives in Asia,4
+If Ian lives in Rāghistān then Ian lives in Afghanistan or If Ian lives in Badakhshan then Ian lives in Afghanistan,5
+If Ian lives in Rāghistān then Ian lives in Asia or If Ian lives in Badakhshan then Ian lives in Asia,5
+If Nina lives in Wākhān then Nina lives in Badakhshan,1
+If Nina lives in Wākhān then Nina lives in Afghanistan,1
+If Nina lives in Wākhān then Nina lives in Asia,1
+If Nina lives in Badakhshan then Nina lives in Afghanistan,1
+If Nina lives in Badakhshan then Nina lives in Asia,1
+If Nina lives in Afghanistan then Nina lives in Asia,1
+If Nina lives in Wākhān then Nina lives in Badakhshan and If Nina lives in Wākhān then Nina lives in Afghanistan,2
+If Nina lives in Wākhān then Nina lives in Badakhshan or If Nina lives in Wākhān then Nina lives in Afghanistan,3
+If Nina lives in Wākhān then Nina lives in Afghanistan and If Nina lives in Badakhshan then Nina lives in Afghanistan,4
+If Nina lives in Wākhān then Nina lives in Asia and If Nina lives in Badakhshan then Nina lives in Asia,4
+If Nina lives in Wākhān then Nina lives in Afghanistan or If Nina lives in Badakhshan then Nina lives in Afghanistan,5
+If Nina lives in Wākhān then Nina lives in Asia or If Nina lives in Badakhshan then Nina lives in Asia,5
+If Walter lives in Ghormach then Walter lives in Badghis,1
+If Walter lives in Ghormach then Walter lives in Afghanistan,1
+If Walter lives in Ghormach then Walter lives in Asia,1
+If Walter lives in Badghis then Walter lives in Afghanistan,1
+If Walter lives in Badghis then Walter lives in Asia,1
+If Walter lives in Afghanistan then Walter lives in Asia,1
+If Walter lives in Ghormach then Walter lives in Badghis and If Walter lives in Ghormach then Walter lives in Afghanistan,2
+If Walter lives in Ghormach then Walter lives in Badghis or If Walter lives in Ghormach then Walter lives in Afghanistan,3
+If Walter lives in Ghormach then Walter lives in Afghanistan and If Walter lives in Badghis then Walter lives in Afghanistan,4
+If Walter lives in Ghormach then Walter lives in Asia and If Walter lives in Badghis then Walter lives in Asia,4
+If Walter lives in Ghormach then Walter lives in Afghanistan or If Walter lives in Badghis then Walter lives in Afghanistan,5
+If Walter lives in Ghormach then Walter lives in Asia or If Walter lives in Badghis then Walter lives in Asia,5
+If Julia lives in Qala i Naw then Julia lives in Badghis,1
+If Julia lives in Qala i Naw then Julia lives in Afghanistan,1
+If Julia lives in Qala i Naw then Julia lives in Asia,1
+If Julia lives in Badghis then Julia lives in Afghanistan,1
+If Julia lives in Badghis then Julia lives in Asia,1
+If Julia lives in Afghanistan then Julia lives in Asia,1
+If Julia lives in Qala i Naw then Julia lives in Badghis and If Julia lives in Qala i Naw then Julia lives in Afghanistan,2
+If Julia lives in Qala i Naw then Julia lives in Badghis or If Julia lives in Qala i Naw then Julia lives in Afghanistan,3
+If Julia lives in Qala i Naw then Julia lives in Afghanistan and If Julia lives in Badghis then Julia lives in Afghanistan,4
+If Julia lives in Qala i Naw then Julia lives in Asia and If Julia lives in Badghis then Julia lives in Asia,4
+If Julia lives in Qala i Naw then Julia lives in Afghanistan or If Julia lives in Badghis then Julia lives in Afghanistan,5
+If Julia lives in Qala i Naw then Julia lives in Asia or If Julia lives in Badghis then Julia lives in Asia,5
+If Ian lives in Baghlān then Ian lives in Baghlan,1
+If Ian lives in Baghlān then Ian lives in Afghanistan,1
+If Ian lives in Baghlān then Ian lives in Asia,1
+If Ian lives in Baghlan then Ian lives in Afghanistan,1
+If Ian lives in Baghlan then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Baghlān then Ian lives in Baghlan and If Ian lives in Baghlān then Ian lives in Afghanistan,2
+If Ian lives in Baghlān then Ian lives in Baghlan or If Ian lives in Baghlān then Ian lives in Afghanistan,3
+If Ian lives in Baghlān then Ian lives in Afghanistan and If Ian lives in Baghlan then Ian lives in Afghanistan,4
+If Ian lives in Baghlān then Ian lives in Asia and If Ian lives in Baghlan then Ian lives in Asia,4
+If Ian lives in Baghlān then Ian lives in Afghanistan or If Ian lives in Baghlan then Ian lives in Afghanistan,5
+If Ian lives in Baghlān then Ian lives in Asia or If Ian lives in Baghlan then Ian lives in Asia,5
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Baghlan,1
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Afghanistan,1
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Asia,1
+If Bob lives in Baghlan then Bob lives in Afghanistan,1
+If Bob lives in Baghlan then Bob lives in Asia,1
+If Bob lives in Afghanistan then Bob lives in Asia,1
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Baghlan and If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Afghanistan,2
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Baghlan or If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Afghanistan,3
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Afghanistan and If Bob lives in Baghlan then Bob lives in Afghanistan,4
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Asia and If Bob lives in Baghlan then Bob lives in Asia,4
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Afghanistan or If Bob lives in Baghlan then Bob lives in Afghanistan,5
+If Bob lives in Ḩukūmatī Dahanah-ye Ghōrī then Bob lives in Asia or If Bob lives in Baghlan then Bob lives in Asia,5
+If Ian lives in Nahrīn then Ian lives in Baghlan,1
+If Ian lives in Nahrīn then Ian lives in Afghanistan,1
+If Ian lives in Nahrīn then Ian lives in Asia,1
+If Ian lives in Baghlan then Ian lives in Afghanistan,1
+If Ian lives in Baghlan then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Nahrīn then Ian lives in Baghlan and If Ian lives in Nahrīn then Ian lives in Afghanistan,2
+If Ian lives in Nahrīn then Ian lives in Baghlan or If Ian lives in Nahrīn then Ian lives in Afghanistan,3
+If Ian lives in Nahrīn then Ian lives in Afghanistan and If Ian lives in Baghlan then Ian lives in Afghanistan,4
+If Ian lives in Nahrīn then Ian lives in Asia and If Ian lives in Baghlan then Ian lives in Asia,4
+If Ian lives in Nahrīn then Ian lives in Afghanistan or If Ian lives in Baghlan then Ian lives in Afghanistan,5
+If Ian lives in Nahrīn then Ian lives in Asia or If Ian lives in Baghlan then Ian lives in Asia,5
+If Alice lives in Pul-e Khumrī then Alice lives in Baghlan,1
+If Alice lives in Pul-e Khumrī then Alice lives in Afghanistan,1
+If Alice lives in Pul-e Khumrī then Alice lives in Asia,1
+If Alice lives in Baghlan then Alice lives in Afghanistan,1
+If Alice lives in Baghlan then Alice lives in Asia,1
+If Alice lives in Afghanistan then Alice lives in Asia,1
+If Alice lives in Pul-e Khumrī then Alice lives in Baghlan and If Alice lives in Pul-e Khumrī then Alice lives in Afghanistan,2
+If Alice lives in Pul-e Khumrī then Alice lives in Baghlan or If Alice lives in Pul-e Khumrī then Alice lives in Afghanistan,3
+If Alice lives in Pul-e Khumrī then Alice lives in Afghanistan and If Alice lives in Baghlan then Alice lives in Afghanistan,4
+If Alice lives in Pul-e Khumrī then Alice lives in Asia and If Alice lives in Baghlan then Alice lives in Asia,4
+If Alice lives in Pul-e Khumrī then Alice lives in Afghanistan or If Alice lives in Baghlan then Alice lives in Afghanistan,5
+If Alice lives in Pul-e Khumrī then Alice lives in Asia or If Alice lives in Baghlan then Alice lives in Asia,5
+If Alice lives in Balkh then Alice lives in Balkh,1
+If Alice lives in Balkh then Alice lives in Afghanistan,1
+If Alice lives in Balkh then Alice lives in Asia,1
+If Alice lives in Balkh then Alice lives in Afghanistan,1
+If Alice lives in Balkh then Alice lives in Asia,1
+If Alice lives in Afghanistan then Alice lives in Asia,1
+If Alice lives in Balkh then Alice lives in Balkh and If Alice lives in Balkh then Alice lives in Afghanistan,2
+If Alice lives in Balkh then Alice lives in Balkh or If Alice lives in Balkh then Alice lives in Afghanistan,3
+If Alice lives in Balkh then Alice lives in Afghanistan and If Alice lives in Balkh then Alice lives in Afghanistan,4
+If Alice lives in Balkh then Alice lives in Asia and If Alice lives in Balkh then Alice lives in Asia,4
+If Alice lives in Balkh then Alice lives in Afghanistan or If Alice lives in Balkh then Alice lives in Afghanistan,5
+If Alice lives in Balkh then Alice lives in Asia or If Alice lives in Balkh then Alice lives in Asia,5
+If Tina lives in Dowlatābād then Tina lives in Balkh,1
+If Tina lives in Dowlatābād then Tina lives in Afghanistan,1
+If Tina lives in Dowlatābād then Tina lives in Asia,1
+If Tina lives in Balkh then Tina lives in Afghanistan,1
+If Tina lives in Balkh then Tina lives in Asia,1
+If Tina lives in Afghanistan then Tina lives in Asia,1
+If Tina lives in Dowlatābād then Tina lives in Balkh and If Tina lives in Dowlatābād then Tina lives in Afghanistan,2
+If Tina lives in Dowlatābād then Tina lives in Balkh or If Tina lives in Dowlatābād then Tina lives in Afghanistan,3
+If Tina lives in Dowlatābād then Tina lives in Afghanistan and If Tina lives in Balkh then Tina lives in Afghanistan,4
+If Tina lives in Dowlatābād then Tina lives in Asia and If Tina lives in Balkh then Tina lives in Asia,4
+If Tina lives in Dowlatābād then Tina lives in Afghanistan or If Tina lives in Balkh then Tina lives in Afghanistan,5
+If Tina lives in Dowlatābād then Tina lives in Asia or If Tina lives in Balkh then Tina lives in Asia,5
+If Hannah lives in Khulm then Hannah lives in Balkh,1
+If Hannah lives in Khulm then Hannah lives in Afghanistan,1
+If Hannah lives in Khulm then Hannah lives in Asia,1
+If Hannah lives in Balkh then Hannah lives in Afghanistan,1
+If Hannah lives in Balkh then Hannah lives in Asia,1
+If Hannah lives in Afghanistan then Hannah lives in Asia,1
+If Hannah lives in Khulm then Hannah lives in Balkh and If Hannah lives in Khulm then Hannah lives in Afghanistan,2
+If Hannah lives in Khulm then Hannah lives in Balkh or If Hannah lives in Khulm then Hannah lives in Afghanistan,3
+If Hannah lives in Khulm then Hannah lives in Afghanistan and If Hannah lives in Balkh then Hannah lives in Afghanistan,4
+If Hannah lives in Khulm then Hannah lives in Asia and If Hannah lives in Balkh then Hannah lives in Asia,4
+If Hannah lives in Khulm then Hannah lives in Afghanistan or If Hannah lives in Balkh then Hannah lives in Afghanistan,5
+If Hannah lives in Khulm then Hannah lives in Asia or If Hannah lives in Balkh then Hannah lives in Asia,5
+If Yara lives in Lab-Sar then Yara lives in Balkh,1
+If Yara lives in Lab-Sar then Yara lives in Afghanistan,1
+If Yara lives in Lab-Sar then Yara lives in Asia,1
+If Yara lives in Balkh then Yara lives in Afghanistan,1
+If Yara lives in Balkh then Yara lives in Asia,1
+If Yara lives in Afghanistan then Yara lives in Asia,1
+If Yara lives in Lab-Sar then Yara lives in Balkh and If Yara lives in Lab-Sar then Yara lives in Afghanistan,2
+If Yara lives in Lab-Sar then Yara lives in Balkh or If Yara lives in Lab-Sar then Yara lives in Afghanistan,3
+If Yara lives in Lab-Sar then Yara lives in Afghanistan and If Yara lives in Balkh then Yara lives in Afghanistan,4
+If Yara lives in Lab-Sar then Yara lives in Asia and If Yara lives in Balkh then Yara lives in Asia,4
+If Yara lives in Lab-Sar then Yara lives in Afghanistan or If Yara lives in Balkh then Yara lives in Afghanistan,5
+If Yara lives in Lab-Sar then Yara lives in Asia or If Yara lives in Balkh then Yara lives in Asia,5
+If George lives in Mazār-e Sharīf then George lives in Balkh,1
+If George lives in Mazār-e Sharīf then George lives in Afghanistan,1
+If George lives in Mazār-e Sharīf then George lives in Asia,1
+If George lives in Balkh then George lives in Afghanistan,1
+If George lives in Balkh then George lives in Asia,1
+If George lives in Afghanistan then George lives in Asia,1
+If George lives in Mazār-e Sharīf then George lives in Balkh and If George lives in Mazār-e Sharīf then George lives in Afghanistan,2
+If George lives in Mazār-e Sharīf then George lives in Balkh or If George lives in Mazār-e Sharīf then George lives in Afghanistan,3
+If George lives in Mazār-e Sharīf then George lives in Afghanistan and If George lives in Balkh then George lives in Afghanistan,4
+If George lives in Mazār-e Sharīf then George lives in Asia and If George lives in Balkh then George lives in Asia,4
+If George lives in Mazār-e Sharīf then George lives in Afghanistan or If George lives in Balkh then George lives in Afghanistan,5
+If George lives in Mazār-e Sharīf then George lives in Asia or If George lives in Balkh then George lives in Asia,5
+If Rachel lives in Qarchī Gak then Rachel lives in Balkh,1
+If Rachel lives in Qarchī Gak then Rachel lives in Afghanistan,1
+If Rachel lives in Qarchī Gak then Rachel lives in Asia,1
+If Rachel lives in Balkh then Rachel lives in Afghanistan,1
+If Rachel lives in Balkh then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Qarchī Gak then Rachel lives in Balkh and If Rachel lives in Qarchī Gak then Rachel lives in Afghanistan,2
+If Rachel lives in Qarchī Gak then Rachel lives in Balkh or If Rachel lives in Qarchī Gak then Rachel lives in Afghanistan,3
+If Rachel lives in Qarchī Gak then Rachel lives in Afghanistan and If Rachel lives in Balkh then Rachel lives in Afghanistan,4
+If Rachel lives in Qarchī Gak then Rachel lives in Asia and If Rachel lives in Balkh then Rachel lives in Asia,4
+If Rachel lives in Qarchī Gak then Rachel lives in Afghanistan or If Rachel lives in Balkh then Rachel lives in Afghanistan,5
+If Rachel lives in Qarchī Gak then Rachel lives in Asia or If Rachel lives in Balkh then Rachel lives in Asia,5
+If Ethan lives in Bāmyān then Ethan lives in Bamyan,1
+If Ethan lives in Bāmyān then Ethan lives in Afghanistan,1
+If Ethan lives in Bāmyān then Ethan lives in Asia,1
+If Ethan lives in Bamyan then Ethan lives in Afghanistan,1
+If Ethan lives in Bamyan then Ethan lives in Asia,1
+If Ethan lives in Afghanistan then Ethan lives in Asia,1
+If Ethan lives in Bāmyān then Ethan lives in Bamyan and If Ethan lives in Bāmyān then Ethan lives in Afghanistan,2
+If Ethan lives in Bāmyān then Ethan lives in Bamyan or If Ethan lives in Bāmyān then Ethan lives in Afghanistan,3
+If Ethan lives in Bāmyān then Ethan lives in Afghanistan and If Ethan lives in Bamyan then Ethan lives in Afghanistan,4
+If Ethan lives in Bāmyān then Ethan lives in Asia and If Ethan lives in Bamyan then Ethan lives in Asia,4
+If Ethan lives in Bāmyān then Ethan lives in Afghanistan or If Ethan lives in Bamyan then Ethan lives in Afghanistan,5
+If Ethan lives in Bāmyān then Ethan lives in Asia or If Ethan lives in Bamyan then Ethan lives in Asia,5
+If Bob lives in Panjāb then Bob lives in Bamyan,1
+If Bob lives in Panjāb then Bob lives in Afghanistan,1
+If Bob lives in Panjāb then Bob lives in Asia,1
+If Bob lives in Bamyan then Bob lives in Afghanistan,1
+If Bob lives in Bamyan then Bob lives in Asia,1
+If Bob lives in Afghanistan then Bob lives in Asia,1
+If Bob lives in Panjāb then Bob lives in Bamyan and If Bob lives in Panjāb then Bob lives in Afghanistan,2
+If Bob lives in Panjāb then Bob lives in Bamyan or If Bob lives in Panjāb then Bob lives in Afghanistan,3
+If Bob lives in Panjāb then Bob lives in Afghanistan and If Bob lives in Bamyan then Bob lives in Afghanistan,4
+If Bob lives in Panjāb then Bob lives in Asia and If Bob lives in Bamyan then Bob lives in Asia,4
+If Bob lives in Panjāb then Bob lives in Afghanistan or If Bob lives in Bamyan then Bob lives in Afghanistan,5
+If Bob lives in Panjāb then Bob lives in Asia or If Bob lives in Bamyan then Bob lives in Asia,5
+If Tina lives in Nīlī then Tina lives in Daykundi,1
+If Tina lives in Nīlī then Tina lives in Afghanistan,1
+If Tina lives in Nīlī then Tina lives in Asia,1
+If Tina lives in Daykundi then Tina lives in Afghanistan,1
+If Tina lives in Daykundi then Tina lives in Asia,1
+If Tina lives in Afghanistan then Tina lives in Asia,1
+If Tina lives in Nīlī then Tina lives in Daykundi and If Tina lives in Nīlī then Tina lives in Afghanistan,2
+If Tina lives in Nīlī then Tina lives in Daykundi or If Tina lives in Nīlī then Tina lives in Afghanistan,3
+If Tina lives in Nīlī then Tina lives in Afghanistan and If Tina lives in Daykundi then Tina lives in Afghanistan,4
+If Tina lives in Nīlī then Tina lives in Asia and If Tina lives in Daykundi then Tina lives in Asia,4
+If Tina lives in Nīlī then Tina lives in Afghanistan or If Tina lives in Daykundi then Tina lives in Afghanistan,5
+If Tina lives in Nīlī then Tina lives in Asia or If Tina lives in Daykundi then Tina lives in Asia,5
+If Steve lives in Farah then Steve lives in Farah,1
+If Steve lives in Farah then Steve lives in Afghanistan,1
+If Steve lives in Farah then Steve lives in Asia,1
+If Steve lives in Farah then Steve lives in Afghanistan,1
+If Steve lives in Farah then Steve lives in Asia,1
+If Steve lives in Afghanistan then Steve lives in Asia,1
+If Steve lives in Farah then Steve lives in Farah and If Steve lives in Farah then Steve lives in Afghanistan,2
+If Steve lives in Farah then Steve lives in Farah or If Steve lives in Farah then Steve lives in Afghanistan,3
+If Steve lives in Farah then Steve lives in Afghanistan and If Steve lives in Farah then Steve lives in Afghanistan,4
+If Steve lives in Farah then Steve lives in Asia and If Steve lives in Farah then Steve lives in Asia,4
+If Steve lives in Farah then Steve lives in Afghanistan or If Steve lives in Farah then Steve lives in Afghanistan,5
+If Steve lives in Farah then Steve lives in Asia or If Steve lives in Farah then Steve lives in Asia,5
+If Tina lives in Andkhoy then Tina lives in Faryab,1
+If Tina lives in Andkhoy then Tina lives in Afghanistan,1
+If Tina lives in Andkhoy then Tina lives in Asia,1
+If Tina lives in Faryab then Tina lives in Afghanistan,1
+If Tina lives in Faryab then Tina lives in Asia,1
+If Tina lives in Afghanistan then Tina lives in Asia,1
+If Tina lives in Andkhoy then Tina lives in Faryab and If Tina lives in Andkhoy then Tina lives in Afghanistan,2
+If Tina lives in Andkhoy then Tina lives in Faryab or If Tina lives in Andkhoy then Tina lives in Afghanistan,3
+If Tina lives in Andkhoy then Tina lives in Afghanistan and If Tina lives in Faryab then Tina lives in Afghanistan,4
+If Tina lives in Andkhoy then Tina lives in Asia and If Tina lives in Faryab then Tina lives in Asia,4
+If Tina lives in Andkhoy then Tina lives in Afghanistan or If Tina lives in Faryab then Tina lives in Afghanistan,5
+If Tina lives in Andkhoy then Tina lives in Asia or If Tina lives in Faryab then Tina lives in Asia,5
+If Charlie lives in Maymana then Charlie lives in Faryab,1
+If Charlie lives in Maymana then Charlie lives in Afghanistan,1
+If Charlie lives in Maymana then Charlie lives in Asia,1
+If Charlie lives in Faryab then Charlie lives in Afghanistan,1
+If Charlie lives in Faryab then Charlie lives in Asia,1
+If Charlie lives in Afghanistan then Charlie lives in Asia,1
+If Charlie lives in Maymana then Charlie lives in Faryab and If Charlie lives in Maymana then Charlie lives in Afghanistan,2
+If Charlie lives in Maymana then Charlie lives in Faryab or If Charlie lives in Maymana then Charlie lives in Afghanistan,3
+If Charlie lives in Maymana then Charlie lives in Afghanistan and If Charlie lives in Faryab then Charlie lives in Afghanistan,4
+If Charlie lives in Maymana then Charlie lives in Asia and If Charlie lives in Faryab then Charlie lives in Asia,4
+If Charlie lives in Maymana then Charlie lives in Afghanistan or If Charlie lives in Faryab then Charlie lives in Afghanistan,5
+If Charlie lives in Maymana then Charlie lives in Asia or If Charlie lives in Faryab then Charlie lives in Asia,5
+If Diana lives in Ghazni then Diana lives in Ghazni,1
+If Diana lives in Ghazni then Diana lives in Afghanistan,1
+If Diana lives in Ghazni then Diana lives in Asia,1
+If Diana lives in Ghazni then Diana lives in Afghanistan,1
+If Diana lives in Ghazni then Diana lives in Asia,1
+If Diana lives in Afghanistan then Diana lives in Asia,1
+If Diana lives in Ghazni then Diana lives in Ghazni and If Diana lives in Ghazni then Diana lives in Afghanistan,2
+If Diana lives in Ghazni then Diana lives in Ghazni or If Diana lives in Ghazni then Diana lives in Afghanistan,3
+If Diana lives in Ghazni then Diana lives in Afghanistan and If Diana lives in Ghazni then Diana lives in Afghanistan,4
+If Diana lives in Ghazni then Diana lives in Asia and If Diana lives in Ghazni then Diana lives in Asia,4
+If Diana lives in Ghazni then Diana lives in Afghanistan or If Diana lives in Ghazni then Diana lives in Afghanistan,5
+If Diana lives in Ghazni then Diana lives in Asia or If Diana lives in Ghazni then Diana lives in Asia,5
+If Yara lives in Fayrōz Kōh then Yara lives in Ghōr,1
+If Yara lives in Fayrōz Kōh then Yara lives in Afghanistan,1
+If Yara lives in Fayrōz Kōh then Yara lives in Asia,1
+If Yara lives in Ghōr then Yara lives in Afghanistan,1
+If Yara lives in Ghōr then Yara lives in Asia,1
+If Yara lives in Afghanistan then Yara lives in Asia,1
+If Yara lives in Fayrōz Kōh then Yara lives in Ghōr and If Yara lives in Fayrōz Kōh then Yara lives in Afghanistan,2
+If Yara lives in Fayrōz Kōh then Yara lives in Ghōr or If Yara lives in Fayrōz Kōh then Yara lives in Afghanistan,3
+If Yara lives in Fayrōz Kōh then Yara lives in Afghanistan and If Yara lives in Ghōr then Yara lives in Afghanistan,4
+If Yara lives in Fayrōz Kōh then Yara lives in Asia and If Yara lives in Ghōr then Yara lives in Asia,4
+If Yara lives in Fayrōz Kōh then Yara lives in Afghanistan or If Yara lives in Ghōr then Yara lives in Afghanistan,5
+If Yara lives in Fayrōz Kōh then Yara lives in Asia or If Yara lives in Ghōr then Yara lives in Asia,5
+If Ian lives in Shahrak then Ian lives in Ghōr,1
+If Ian lives in Shahrak then Ian lives in Afghanistan,1
+If Ian lives in Shahrak then Ian lives in Asia,1
+If Ian lives in Ghōr then Ian lives in Afghanistan,1
+If Ian lives in Ghōr then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Shahrak then Ian lives in Ghōr and If Ian lives in Shahrak then Ian lives in Afghanistan,2
+If Ian lives in Shahrak then Ian lives in Ghōr or If Ian lives in Shahrak then Ian lives in Afghanistan,3
+If Ian lives in Shahrak then Ian lives in Afghanistan and If Ian lives in Ghōr then Ian lives in Afghanistan,4
+If Ian lives in Shahrak then Ian lives in Asia and If Ian lives in Ghōr then Ian lives in Asia,4
+If Ian lives in Shahrak then Ian lives in Afghanistan or If Ian lives in Ghōr then Ian lives in Afghanistan,5
+If Ian lives in Shahrak then Ian lives in Asia or If Ian lives in Ghōr then Ian lives in Asia,5
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Helmand,1
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Afghanistan,1
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Asia,1
+If Diana lives in Helmand then Diana lives in Afghanistan,1
+If Diana lives in Helmand then Diana lives in Asia,1
+If Diana lives in Afghanistan then Diana lives in Asia,1
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Helmand and If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Afghanistan,2
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Helmand or If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Afghanistan,3
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Afghanistan and If Diana lives in Helmand then Diana lives in Afghanistan,4
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Asia and If Diana lives in Helmand then Diana lives in Asia,4
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Afghanistan or If Diana lives in Helmand then Diana lives in Afghanistan,5
+If Diana lives in ‘Alāqahdārī Dīshū then Diana lives in Asia or If Diana lives in Helmand then Diana lives in Asia,5
+If Charlie lives in Gereshk then Charlie lives in Helmand,1
+If Charlie lives in Gereshk then Charlie lives in Afghanistan,1
+If Charlie lives in Gereshk then Charlie lives in Asia,1
+If Charlie lives in Helmand then Charlie lives in Afghanistan,1
+If Charlie lives in Helmand then Charlie lives in Asia,1
+If Charlie lives in Afghanistan then Charlie lives in Asia,1
+If Charlie lives in Gereshk then Charlie lives in Helmand and If Charlie lives in Gereshk then Charlie lives in Afghanistan,2
+If Charlie lives in Gereshk then Charlie lives in Helmand or If Charlie lives in Gereshk then Charlie lives in Afghanistan,3
+If Charlie lives in Gereshk then Charlie lives in Afghanistan and If Charlie lives in Helmand then Charlie lives in Afghanistan,4
+If Charlie lives in Gereshk then Charlie lives in Asia and If Charlie lives in Helmand then Charlie lives in Asia,4
+If Charlie lives in Gereshk then Charlie lives in Afghanistan or If Charlie lives in Helmand then Charlie lives in Afghanistan,5
+If Charlie lives in Gereshk then Charlie lives in Asia or If Charlie lives in Helmand then Charlie lives in Asia,5
+If Ethan lives in Lashkar Gāh then Ethan lives in Helmand,1
+If Ethan lives in Lashkar Gāh then Ethan lives in Afghanistan,1
+If Ethan lives in Lashkar Gāh then Ethan lives in Asia,1
+If Ethan lives in Helmand then Ethan lives in Afghanistan,1
+If Ethan lives in Helmand then Ethan lives in Asia,1
+If Ethan lives in Afghanistan then Ethan lives in Asia,1
+If Ethan lives in Lashkar Gāh then Ethan lives in Helmand and If Ethan lives in Lashkar Gāh then Ethan lives in Afghanistan,2
+If Ethan lives in Lashkar Gāh then Ethan lives in Helmand or If Ethan lives in Lashkar Gāh then Ethan lives in Afghanistan,3
+If Ethan lives in Lashkar Gāh then Ethan lives in Afghanistan and If Ethan lives in Helmand then Ethan lives in Afghanistan,4
+If Ethan lives in Lashkar Gāh then Ethan lives in Asia and If Ethan lives in Helmand then Ethan lives in Asia,4
+If Ethan lives in Lashkar Gāh then Ethan lives in Afghanistan or If Ethan lives in Helmand then Ethan lives in Afghanistan,5
+If Ethan lives in Lashkar Gāh then Ethan lives in Asia or If Ethan lives in Helmand then Ethan lives in Asia,5
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Helmand,1
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Afghanistan,1
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Asia,1
+If Quincy lives in Helmand then Quincy lives in Afghanistan,1
+If Quincy lives in Helmand then Quincy lives in Asia,1
+If Quincy lives in Afghanistan then Quincy lives in Asia,1
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Helmand and If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Afghanistan,2
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Helmand or If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Afghanistan,3
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Afghanistan and If Quincy lives in Helmand then Quincy lives in Afghanistan,4
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Asia and If Quincy lives in Helmand then Quincy lives in Asia,4
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Afghanistan or If Quincy lives in Helmand then Quincy lives in Afghanistan,5
+If Quincy lives in Markaz-e Ḩukūmat-e Darwēshān then Quincy lives in Asia or If Quincy lives in Helmand then Quincy lives in Asia,5
+If Rachel lives in Sangīn then Rachel lives in Helmand,1
+If Rachel lives in Sangīn then Rachel lives in Afghanistan,1
+If Rachel lives in Sangīn then Rachel lives in Asia,1
+If Rachel lives in Helmand then Rachel lives in Afghanistan,1
+If Rachel lives in Helmand then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Sangīn then Rachel lives in Helmand and If Rachel lives in Sangīn then Rachel lives in Afghanistan,2
+If Rachel lives in Sangīn then Rachel lives in Helmand or If Rachel lives in Sangīn then Rachel lives in Afghanistan,3
+If Rachel lives in Sangīn then Rachel lives in Afghanistan and If Rachel lives in Helmand then Rachel lives in Afghanistan,4
+If Rachel lives in Sangīn then Rachel lives in Asia and If Rachel lives in Helmand then Rachel lives in Asia,4
+If Rachel lives in Sangīn then Rachel lives in Afghanistan or If Rachel lives in Helmand then Rachel lives in Afghanistan,5
+If Rachel lives in Sangīn then Rachel lives in Asia or If Rachel lives in Helmand then Rachel lives in Asia,5
+If Julia lives in Chahār Burj then Julia lives in Herat,1
+If Julia lives in Chahār Burj then Julia lives in Afghanistan,1
+If Julia lives in Chahār Burj then Julia lives in Asia,1
+If Julia lives in Herat then Julia lives in Afghanistan,1
+If Julia lives in Herat then Julia lives in Asia,1
+If Julia lives in Afghanistan then Julia lives in Asia,1
+If Julia lives in Chahār Burj then Julia lives in Herat and If Julia lives in Chahār Burj then Julia lives in Afghanistan,2
+If Julia lives in Chahār Burj then Julia lives in Herat or If Julia lives in Chahār Burj then Julia lives in Afghanistan,3
+If Julia lives in Chahār Burj then Julia lives in Afghanistan and If Julia lives in Herat then Julia lives in Afghanistan,4
+If Julia lives in Chahār Burj then Julia lives in Asia and If Julia lives in Herat then Julia lives in Asia,4
+If Julia lives in Chahār Burj then Julia lives in Afghanistan or If Julia lives in Herat then Julia lives in Afghanistan,5
+If Julia lives in Chahār Burj then Julia lives in Asia or If Julia lives in Herat then Julia lives in Asia,5
+If Xena lives in Ghōriyān then Xena lives in Herat,1
+If Xena lives in Ghōriyān then Xena lives in Afghanistan,1
+If Xena lives in Ghōriyān then Xena lives in Asia,1
+If Xena lives in Herat then Xena lives in Afghanistan,1
+If Xena lives in Herat then Xena lives in Asia,1
+If Xena lives in Afghanistan then Xena lives in Asia,1
+If Xena lives in Ghōriyān then Xena lives in Herat and If Xena lives in Ghōriyān then Xena lives in Afghanistan,2
+If Xena lives in Ghōriyān then Xena lives in Herat or If Xena lives in Ghōriyān then Xena lives in Afghanistan,3
+If Xena lives in Ghōriyān then Xena lives in Afghanistan and If Xena lives in Herat then Xena lives in Afghanistan,4
+If Xena lives in Ghōriyān then Xena lives in Asia and If Xena lives in Herat then Xena lives in Asia,4
+If Xena lives in Ghōriyān then Xena lives in Afghanistan or If Xena lives in Herat then Xena lives in Afghanistan,5
+If Xena lives in Ghōriyān then Xena lives in Asia or If Xena lives in Herat then Xena lives in Asia,5
+If Alice lives in Herāt then Alice lives in Herat,1
+If Alice lives in Herāt then Alice lives in Afghanistan,1
+If Alice lives in Herāt then Alice lives in Asia,1
+If Alice lives in Herat then Alice lives in Afghanistan,1
+If Alice lives in Herat then Alice lives in Asia,1
+If Alice lives in Afghanistan then Alice lives in Asia,1
+If Alice lives in Herāt then Alice lives in Herat and If Alice lives in Herāt then Alice lives in Afghanistan,2
+If Alice lives in Herāt then Alice lives in Herat or If Alice lives in Herāt then Alice lives in Afghanistan,3
+If Alice lives in Herāt then Alice lives in Afghanistan and If Alice lives in Herat then Alice lives in Afghanistan,4
+If Alice lives in Herāt then Alice lives in Asia and If Alice lives in Herat then Alice lives in Asia,4
+If Alice lives in Herāt then Alice lives in Afghanistan or If Alice lives in Herat then Alice lives in Afghanistan,5
+If Alice lives in Herāt then Alice lives in Asia or If Alice lives in Herat then Alice lives in Asia,5
+If Umar lives in Kafir Qala then Umar lives in Herat,1
+If Umar lives in Kafir Qala then Umar lives in Afghanistan,1
+If Umar lives in Kafir Qala then Umar lives in Asia,1
+If Umar lives in Herat then Umar lives in Afghanistan,1
+If Umar lives in Herat then Umar lives in Asia,1
+If Umar lives in Afghanistan then Umar lives in Asia,1
+If Umar lives in Kafir Qala then Umar lives in Herat and If Umar lives in Kafir Qala then Umar lives in Afghanistan,2
+If Umar lives in Kafir Qala then Umar lives in Herat or If Umar lives in Kafir Qala then Umar lives in Afghanistan,3
+If Umar lives in Kafir Qala then Umar lives in Afghanistan and If Umar lives in Herat then Umar lives in Afghanistan,4
+If Umar lives in Kafir Qala then Umar lives in Asia and If Umar lives in Herat then Umar lives in Asia,4
+If Umar lives in Kafir Qala then Umar lives in Afghanistan or If Umar lives in Herat then Umar lives in Afghanistan,5
+If Umar lives in Kafir Qala then Umar lives in Asia or If Umar lives in Herat then Umar lives in Asia,5
+If Rachel lives in Karukh then Rachel lives in Herat,1
+If Rachel lives in Karukh then Rachel lives in Afghanistan,1
+If Rachel lives in Karukh then Rachel lives in Asia,1
+If Rachel lives in Herat then Rachel lives in Afghanistan,1
+If Rachel lives in Herat then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Karukh then Rachel lives in Herat and If Rachel lives in Karukh then Rachel lives in Afghanistan,2
+If Rachel lives in Karukh then Rachel lives in Herat or If Rachel lives in Karukh then Rachel lives in Afghanistan,3
+If Rachel lives in Karukh then Rachel lives in Afghanistan and If Rachel lives in Herat then Rachel lives in Afghanistan,4
+If Rachel lives in Karukh then Rachel lives in Asia and If Rachel lives in Herat then Rachel lives in Asia,4
+If Rachel lives in Karukh then Rachel lives in Afghanistan or If Rachel lives in Herat then Rachel lives in Afghanistan,5
+If Rachel lives in Karukh then Rachel lives in Asia or If Rachel lives in Herat then Rachel lives in Asia,5
+If Umar lives in Kuhsān then Umar lives in Herat,1
+If Umar lives in Kuhsān then Umar lives in Afghanistan,1
+If Umar lives in Kuhsān then Umar lives in Asia,1
+If Umar lives in Herat then Umar lives in Afghanistan,1
+If Umar lives in Herat then Umar lives in Asia,1
+If Umar lives in Afghanistan then Umar lives in Asia,1
+If Umar lives in Kuhsān then Umar lives in Herat and If Umar lives in Kuhsān then Umar lives in Afghanistan,2
+If Umar lives in Kuhsān then Umar lives in Herat or If Umar lives in Kuhsān then Umar lives in Afghanistan,3
+If Umar lives in Kuhsān then Umar lives in Afghanistan and If Umar lives in Herat then Umar lives in Afghanistan,4
+If Umar lives in Kuhsān then Umar lives in Asia and If Umar lives in Herat then Umar lives in Asia,4
+If Umar lives in Kuhsān then Umar lives in Afghanistan or If Umar lives in Herat then Umar lives in Afghanistan,5
+If Umar lives in Kuhsān then Umar lives in Asia or If Umar lives in Herat then Umar lives in Asia,5
+If Xena lives in Kushk then Xena lives in Herat,1
+If Xena lives in Kushk then Xena lives in Afghanistan,1
+If Xena lives in Kushk then Xena lives in Asia,1
+If Xena lives in Herat then Xena lives in Afghanistan,1
+If Xena lives in Herat then Xena lives in Asia,1
+If Xena lives in Afghanistan then Xena lives in Asia,1
+If Xena lives in Kushk then Xena lives in Herat and If Xena lives in Kushk then Xena lives in Afghanistan,2
+If Xena lives in Kushk then Xena lives in Herat or If Xena lives in Kushk then Xena lives in Afghanistan,3
+If Xena lives in Kushk then Xena lives in Afghanistan and If Xena lives in Herat then Xena lives in Afghanistan,4
+If Xena lives in Kushk then Xena lives in Asia and If Xena lives in Herat then Xena lives in Asia,4
+If Xena lives in Kushk then Xena lives in Afghanistan or If Xena lives in Herat then Xena lives in Afghanistan,5
+If Xena lives in Kushk then Xena lives in Asia or If Xena lives in Herat then Xena lives in Asia,5
+If Walter lives in Qarah Bāgh then Walter lives in Herat,1
+If Walter lives in Qarah Bāgh then Walter lives in Afghanistan,1
+If Walter lives in Qarah Bāgh then Walter lives in Asia,1
+If Walter lives in Herat then Walter lives in Afghanistan,1
+If Walter lives in Herat then Walter lives in Asia,1
+If Walter lives in Afghanistan then Walter lives in Asia,1
+If Walter lives in Qarah Bāgh then Walter lives in Herat and If Walter lives in Qarah Bāgh then Walter lives in Afghanistan,2
+If Walter lives in Qarah Bāgh then Walter lives in Herat or If Walter lives in Qarah Bāgh then Walter lives in Afghanistan,3
+If Walter lives in Qarah Bāgh then Walter lives in Afghanistan and If Walter lives in Herat then Walter lives in Afghanistan,4
+If Walter lives in Qarah Bāgh then Walter lives in Asia and If Walter lives in Herat then Walter lives in Asia,4
+If Walter lives in Qarah Bāgh then Walter lives in Afghanistan or If Walter lives in Herat then Walter lives in Afghanistan,5
+If Walter lives in Qarah Bāgh then Walter lives in Asia or If Walter lives in Herat then Walter lives in Asia,5
+If Vera lives in Shīnḏanḏ then Vera lives in Herat,1
+If Vera lives in Shīnḏanḏ then Vera lives in Afghanistan,1
+If Vera lives in Shīnḏanḏ then Vera lives in Asia,1
+If Vera lives in Herat then Vera lives in Afghanistan,1
+If Vera lives in Herat then Vera lives in Asia,1
+If Vera lives in Afghanistan then Vera lives in Asia,1
+If Vera lives in Shīnḏanḏ then Vera lives in Herat and If Vera lives in Shīnḏanḏ then Vera lives in Afghanistan,2
+If Vera lives in Shīnḏanḏ then Vera lives in Herat or If Vera lives in Shīnḏanḏ then Vera lives in Afghanistan,3
+If Vera lives in Shīnḏanḏ then Vera lives in Afghanistan and If Vera lives in Herat then Vera lives in Afghanistan,4
+If Vera lives in Shīnḏanḏ then Vera lives in Asia and If Vera lives in Herat then Vera lives in Asia,4
+If Vera lives in Shīnḏanḏ then Vera lives in Afghanistan or If Vera lives in Herat then Vera lives in Afghanistan,5
+If Vera lives in Shīnḏanḏ then Vera lives in Asia or If Vera lives in Herat then Vera lives in Asia,5
+If Kevin lives in Tīr Pul then Kevin lives in Herat,1
+If Kevin lives in Tīr Pul then Kevin lives in Afghanistan,1
+If Kevin lives in Tīr Pul then Kevin lives in Asia,1
+If Kevin lives in Herat then Kevin lives in Afghanistan,1
+If Kevin lives in Herat then Kevin lives in Asia,1
+If Kevin lives in Afghanistan then Kevin lives in Asia,1
+If Kevin lives in Tīr Pul then Kevin lives in Herat and If Kevin lives in Tīr Pul then Kevin lives in Afghanistan,2
+If Kevin lives in Tīr Pul then Kevin lives in Herat or If Kevin lives in Tīr Pul then Kevin lives in Afghanistan,3
+If Kevin lives in Tīr Pul then Kevin lives in Afghanistan and If Kevin lives in Herat then Kevin lives in Afghanistan,4
+If Kevin lives in Tīr Pul then Kevin lives in Asia and If Kevin lives in Herat then Kevin lives in Asia,4
+If Kevin lives in Tīr Pul then Kevin lives in Afghanistan or If Kevin lives in Herat then Kevin lives in Afghanistan,5
+If Kevin lives in Tīr Pul then Kevin lives in Asia or If Kevin lives in Herat then Kevin lives in Asia,5
+If George lives in Zindah Jān then George lives in Herat,1
+If George lives in Zindah Jān then George lives in Afghanistan,1
+If George lives in Zindah Jān then George lives in Asia,1
+If George lives in Herat then George lives in Afghanistan,1
+If George lives in Herat then George lives in Asia,1
+If George lives in Afghanistan then George lives in Asia,1
+If George lives in Zindah Jān then George lives in Herat and If George lives in Zindah Jān then George lives in Afghanistan,2
+If George lives in Zindah Jān then George lives in Herat or If George lives in Zindah Jān then George lives in Afghanistan,3
+If George lives in Zindah Jān then George lives in Afghanistan and If George lives in Herat then George lives in Afghanistan,4
+If George lives in Zindah Jān then George lives in Asia and If George lives in Herat then George lives in Asia,4
+If George lives in Zindah Jān then George lives in Afghanistan or If George lives in Herat then George lives in Afghanistan,5
+If George lives in Zindah Jān then George lives in Asia or If George lives in Herat then George lives in Asia,5
+If Diana lives in Āqchah then Diana lives in Jowzjan,1
+If Diana lives in Āqchah then Diana lives in Afghanistan,1
+If Diana lives in Āqchah then Diana lives in Asia,1
+If Diana lives in Jowzjan then Diana lives in Afghanistan,1
+If Diana lives in Jowzjan then Diana lives in Asia,1
+If Diana lives in Afghanistan then Diana lives in Asia,1
+If Diana lives in Āqchah then Diana lives in Jowzjan and If Diana lives in Āqchah then Diana lives in Afghanistan,2
+If Diana lives in Āqchah then Diana lives in Jowzjan or If Diana lives in Āqchah then Diana lives in Afghanistan,3
+If Diana lives in Āqchah then Diana lives in Afghanistan and If Diana lives in Jowzjan then Diana lives in Afghanistan,4
+If Diana lives in Āqchah then Diana lives in Asia and If Diana lives in Jowzjan then Diana lives in Asia,4
+If Diana lives in Āqchah then Diana lives in Afghanistan or If Diana lives in Jowzjan then Diana lives in Afghanistan,5
+If Diana lives in Āqchah then Diana lives in Asia or If Diana lives in Jowzjan then Diana lives in Asia,5
+If Bob lives in Darzāb then Bob lives in Jowzjan,1
+If Bob lives in Darzāb then Bob lives in Afghanistan,1
+If Bob lives in Darzāb then Bob lives in Asia,1
+If Bob lives in Jowzjan then Bob lives in Afghanistan,1
+If Bob lives in Jowzjan then Bob lives in Asia,1
+If Bob lives in Afghanistan then Bob lives in Asia,1
+If Bob lives in Darzāb then Bob lives in Jowzjan and If Bob lives in Darzāb then Bob lives in Afghanistan,2
+If Bob lives in Darzāb then Bob lives in Jowzjan or If Bob lives in Darzāb then Bob lives in Afghanistan,3
+If Bob lives in Darzāb then Bob lives in Afghanistan and If Bob lives in Jowzjan then Bob lives in Afghanistan,4
+If Bob lives in Darzāb then Bob lives in Asia and If Bob lives in Jowzjan then Bob lives in Asia,4
+If Bob lives in Darzāb then Bob lives in Afghanistan or If Bob lives in Jowzjan then Bob lives in Afghanistan,5
+If Bob lives in Darzāb then Bob lives in Asia or If Bob lives in Jowzjan then Bob lives in Asia,5
+If Ethan lives in Qarqīn then Ethan lives in Jowzjan,1
+If Ethan lives in Qarqīn then Ethan lives in Afghanistan,1
+If Ethan lives in Qarqīn then Ethan lives in Asia,1
+If Ethan lives in Jowzjan then Ethan lives in Afghanistan,1
+If Ethan lives in Jowzjan then Ethan lives in Asia,1
+If Ethan lives in Afghanistan then Ethan lives in Asia,1
+If Ethan lives in Qarqīn then Ethan lives in Jowzjan and If Ethan lives in Qarqīn then Ethan lives in Afghanistan,2
+If Ethan lives in Qarqīn then Ethan lives in Jowzjan or If Ethan lives in Qarqīn then Ethan lives in Afghanistan,3
+If Ethan lives in Qarqīn then Ethan lives in Afghanistan and If Ethan lives in Jowzjan then Ethan lives in Afghanistan,4
+If Ethan lives in Qarqīn then Ethan lives in Asia and If Ethan lives in Jowzjan then Ethan lives in Asia,4
+If Ethan lives in Qarqīn then Ethan lives in Afghanistan or If Ethan lives in Jowzjan then Ethan lives in Afghanistan,5
+If Ethan lives in Qarqīn then Ethan lives in Asia or If Ethan lives in Jowzjan then Ethan lives in Asia,5
+If Yara lives in Shibirghān then Yara lives in Jowzjan,1
+If Yara lives in Shibirghān then Yara lives in Afghanistan,1
+If Yara lives in Shibirghān then Yara lives in Asia,1
+If Yara lives in Jowzjan then Yara lives in Afghanistan,1
+If Yara lives in Jowzjan then Yara lives in Asia,1
+If Yara lives in Afghanistan then Yara lives in Asia,1
+If Yara lives in Shibirghān then Yara lives in Jowzjan and If Yara lives in Shibirghān then Yara lives in Afghanistan,2
+If Yara lives in Shibirghān then Yara lives in Jowzjan or If Yara lives in Shibirghān then Yara lives in Afghanistan,3
+If Yara lives in Shibirghān then Yara lives in Afghanistan and If Yara lives in Jowzjan then Yara lives in Afghanistan,4
+If Yara lives in Shibirghān then Yara lives in Asia and If Yara lives in Jowzjan then Yara lives in Asia,4
+If Yara lives in Shibirghān then Yara lives in Afghanistan or If Yara lives in Jowzjan then Yara lives in Afghanistan,5
+If Yara lives in Shibirghān then Yara lives in Asia or If Yara lives in Jowzjan then Yara lives in Asia,5
+If Mason lives in Kabul then Mason lives in Kabul,1
+If Mason lives in Kabul then Mason lives in Afghanistan,1
+If Mason lives in Kabul then Mason lives in Asia,1
+If Mason lives in Kabul then Mason lives in Afghanistan,1
+If Mason lives in Kabul then Mason lives in Asia,1
+If Mason lives in Afghanistan then Mason lives in Asia,1
+If Mason lives in Kabul then Mason lives in Kabul and If Mason lives in Kabul then Mason lives in Afghanistan,2
+If Mason lives in Kabul then Mason lives in Kabul or If Mason lives in Kabul then Mason lives in Afghanistan,3
+If Mason lives in Kabul then Mason lives in Afghanistan and If Mason lives in Kabul then Mason lives in Afghanistan,4
+If Mason lives in Kabul then Mason lives in Asia and If Mason lives in Kabul then Mason lives in Asia,4
+If Mason lives in Kabul then Mason lives in Afghanistan or If Mason lives in Kabul then Mason lives in Afghanistan,5
+If Mason lives in Kabul then Mason lives in Asia or If Mason lives in Kabul then Mason lives in Asia,5
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Kabul,1
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Afghanistan,1
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Asia,1
+If Oscar lives in Kabul then Oscar lives in Afghanistan,1
+If Oscar lives in Kabul then Oscar lives in Asia,1
+If Oscar lives in Afghanistan then Oscar lives in Asia,1
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Kabul and If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Afghanistan,2
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Kabul or If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Afghanistan,3
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Afghanistan and If Oscar lives in Kabul then Oscar lives in Afghanistan,4
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Asia and If Oscar lives in Kabul then Oscar lives in Asia,4
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Afghanistan or If Oscar lives in Kabul then Oscar lives in Afghanistan,5
+If Oscar lives in Mīr Bachah Kōṯ then Oscar lives in Asia or If Oscar lives in Kabul then Oscar lives in Asia,5
+If Tina lives in Paghmān then Tina lives in Kabul,1
+If Tina lives in Paghmān then Tina lives in Afghanistan,1
+If Tina lives in Paghmān then Tina lives in Asia,1
+If Tina lives in Kabul then Tina lives in Afghanistan,1
+If Tina lives in Kabul then Tina lives in Asia,1
+If Tina lives in Afghanistan then Tina lives in Asia,1
+If Tina lives in Paghmān then Tina lives in Kabul and If Tina lives in Paghmān then Tina lives in Afghanistan,2
+If Tina lives in Paghmān then Tina lives in Kabul or If Tina lives in Paghmān then Tina lives in Afghanistan,3
+If Tina lives in Paghmān then Tina lives in Afghanistan and If Tina lives in Kabul then Tina lives in Afghanistan,4
+If Tina lives in Paghmān then Tina lives in Asia and If Tina lives in Kabul then Tina lives in Asia,4
+If Tina lives in Paghmān then Tina lives in Afghanistan or If Tina lives in Kabul then Tina lives in Afghanistan,5
+If Tina lives in Paghmān then Tina lives in Asia or If Tina lives in Kabul then Tina lives in Asia,5
+If Lily lives in Kandahār then Lily lives in Kandahar,1
+If Lily lives in Kandahār then Lily lives in Afghanistan,1
+If Lily lives in Kandahār then Lily lives in Asia,1
+If Lily lives in Kandahar then Lily lives in Afghanistan,1
+If Lily lives in Kandahar then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Kandahār then Lily lives in Kandahar and If Lily lives in Kandahār then Lily lives in Afghanistan,2
+If Lily lives in Kandahār then Lily lives in Kandahar or If Lily lives in Kandahār then Lily lives in Afghanistan,3
+If Lily lives in Kandahār then Lily lives in Afghanistan and If Lily lives in Kandahar then Lily lives in Afghanistan,4
+If Lily lives in Kandahār then Lily lives in Asia and If Lily lives in Kandahar then Lily lives in Asia,4
+If Lily lives in Kandahār then Lily lives in Afghanistan or If Lily lives in Kandahar then Lily lives in Afghanistan,5
+If Lily lives in Kandahār then Lily lives in Asia or If Lily lives in Kandahar then Lily lives in Asia,5
+If Ethan lives in Sidqābād then Ethan lives in Kapisa,1
+If Ethan lives in Sidqābād then Ethan lives in Afghanistan,1
+If Ethan lives in Sidqābād then Ethan lives in Asia,1
+If Ethan lives in Kapisa then Ethan lives in Afghanistan,1
+If Ethan lives in Kapisa then Ethan lives in Asia,1
+If Ethan lives in Afghanistan then Ethan lives in Asia,1
+If Ethan lives in Sidqābād then Ethan lives in Kapisa and If Ethan lives in Sidqābād then Ethan lives in Afghanistan,2
+If Ethan lives in Sidqābād then Ethan lives in Kapisa or If Ethan lives in Sidqābād then Ethan lives in Afghanistan,3
+If Ethan lives in Sidqābād then Ethan lives in Afghanistan and If Ethan lives in Kapisa then Ethan lives in Afghanistan,4
+If Ethan lives in Sidqābād then Ethan lives in Asia and If Ethan lives in Kapisa then Ethan lives in Asia,4
+If Ethan lives in Sidqābād then Ethan lives in Afghanistan or If Ethan lives in Kapisa then Ethan lives in Afghanistan,5
+If Ethan lives in Sidqābād then Ethan lives in Asia or If Ethan lives in Kapisa then Ethan lives in Asia,5
+If Fiona lives in Khōst then Fiona lives in Khost,1
+If Fiona lives in Khōst then Fiona lives in Afghanistan,1
+If Fiona lives in Khōst then Fiona lives in Asia,1
+If Fiona lives in Khost then Fiona lives in Afghanistan,1
+If Fiona lives in Khost then Fiona lives in Asia,1
+If Fiona lives in Afghanistan then Fiona lives in Asia,1
+If Fiona lives in Khōst then Fiona lives in Khost and If Fiona lives in Khōst then Fiona lives in Afghanistan,2
+If Fiona lives in Khōst then Fiona lives in Khost or If Fiona lives in Khōst then Fiona lives in Afghanistan,3
+If Fiona lives in Khōst then Fiona lives in Afghanistan and If Fiona lives in Khost then Fiona lives in Afghanistan,4
+If Fiona lives in Khōst then Fiona lives in Asia and If Fiona lives in Khost then Fiona lives in Asia,4
+If Fiona lives in Khōst then Fiona lives in Afghanistan or If Fiona lives in Khost then Fiona lives in Afghanistan,5
+If Fiona lives in Khōst then Fiona lives in Asia or If Fiona lives in Khost then Fiona lives in Asia,5
+If Walter lives in Asadabad then Walter lives in Kunar,1
+If Walter lives in Asadabad then Walter lives in Afghanistan,1
+If Walter lives in Asadabad then Walter lives in Asia,1
+If Walter lives in Kunar then Walter lives in Afghanistan,1
+If Walter lives in Kunar then Walter lives in Asia,1
+If Walter lives in Afghanistan then Walter lives in Asia,1
+If Walter lives in Asadabad then Walter lives in Kunar and If Walter lives in Asadabad then Walter lives in Afghanistan,2
+If Walter lives in Asadabad then Walter lives in Kunar or If Walter lives in Asadabad then Walter lives in Afghanistan,3
+If Walter lives in Asadabad then Walter lives in Afghanistan and If Walter lives in Kunar then Walter lives in Afghanistan,4
+If Walter lives in Asadabad then Walter lives in Asia and If Walter lives in Kunar then Walter lives in Asia,4
+If Walter lives in Asadabad then Walter lives in Afghanistan or If Walter lives in Kunar then Walter lives in Afghanistan,5
+If Walter lives in Asadabad then Walter lives in Asia or If Walter lives in Kunar then Walter lives in Asia,5
+If George lives in Āsmār then George lives in Kunar,1
+If George lives in Āsmār then George lives in Afghanistan,1
+If George lives in Āsmār then George lives in Asia,1
+If George lives in Kunar then George lives in Afghanistan,1
+If George lives in Kunar then George lives in Asia,1
+If George lives in Afghanistan then George lives in Asia,1
+If George lives in Āsmār then George lives in Kunar and If George lives in Āsmār then George lives in Afghanistan,2
+If George lives in Āsmār then George lives in Kunar or If George lives in Āsmār then George lives in Afghanistan,3
+If George lives in Āsmār then George lives in Afghanistan and If George lives in Kunar then George lives in Afghanistan,4
+If George lives in Āsmār then George lives in Asia and If George lives in Kunar then George lives in Asia,4
+If George lives in Āsmār then George lives in Afghanistan or If George lives in Kunar then George lives in Afghanistan,5
+If George lives in Āsmār then George lives in Asia or If George lives in Kunar then George lives in Asia,5
+If Xena lives in Dasht-e Archī then Xena lives in Kunduz Province,1
+If Xena lives in Dasht-e Archī then Xena lives in Afghanistan,1
+If Xena lives in Dasht-e Archī then Xena lives in Asia,1
+If Xena lives in Kunduz Province then Xena lives in Afghanistan,1
+If Xena lives in Kunduz Province then Xena lives in Asia,1
+If Xena lives in Afghanistan then Xena lives in Asia,1
+If Xena lives in Dasht-e Archī then Xena lives in Kunduz Province and If Xena lives in Dasht-e Archī then Xena lives in Afghanistan,2
+If Xena lives in Dasht-e Archī then Xena lives in Kunduz Province or If Xena lives in Dasht-e Archī then Xena lives in Afghanistan,3
+If Xena lives in Dasht-e Archī then Xena lives in Afghanistan and If Xena lives in Kunduz Province then Xena lives in Afghanistan,4
+If Xena lives in Dasht-e Archī then Xena lives in Asia and If Xena lives in Kunduz Province then Xena lives in Asia,4
+If Xena lives in Dasht-e Archī then Xena lives in Afghanistan or If Xena lives in Kunduz Province then Xena lives in Afghanistan,5
+If Xena lives in Dasht-e Archī then Xena lives in Asia or If Xena lives in Kunduz Province then Xena lives in Asia,5
+If Ethan lives in Imām Şāḩib then Ethan lives in Kunduz Province,1
+If Ethan lives in Imām Şāḩib then Ethan lives in Afghanistan,1
+If Ethan lives in Imām Şāḩib then Ethan lives in Asia,1
+If Ethan lives in Kunduz Province then Ethan lives in Afghanistan,1
+If Ethan lives in Kunduz Province then Ethan lives in Asia,1
+If Ethan lives in Afghanistan then Ethan lives in Asia,1
+If Ethan lives in Imām Şāḩib then Ethan lives in Kunduz Province and If Ethan lives in Imām Şāḩib then Ethan lives in Afghanistan,2
+If Ethan lives in Imām Şāḩib then Ethan lives in Kunduz Province or If Ethan lives in Imām Şāḩib then Ethan lives in Afghanistan,3
+If Ethan lives in Imām Şāḩib then Ethan lives in Afghanistan and If Ethan lives in Kunduz Province then Ethan lives in Afghanistan,4
+If Ethan lives in Imām Şāḩib then Ethan lives in Asia and If Ethan lives in Kunduz Province then Ethan lives in Asia,4
+If Ethan lives in Imām Şāḩib then Ethan lives in Afghanistan or If Ethan lives in Kunduz Province then Ethan lives in Afghanistan,5
+If Ethan lives in Imām Şāḩib then Ethan lives in Asia or If Ethan lives in Kunduz Province then Ethan lives in Asia,5
+If Quincy lives in Khanabad then Quincy lives in Kunduz Province,1
+If Quincy lives in Khanabad then Quincy lives in Afghanistan,1
+If Quincy lives in Khanabad then Quincy lives in Asia,1
+If Quincy lives in Kunduz Province then Quincy lives in Afghanistan,1
+If Quincy lives in Kunduz Province then Quincy lives in Asia,1
+If Quincy lives in Afghanistan then Quincy lives in Asia,1
+If Quincy lives in Khanabad then Quincy lives in Kunduz Province and If Quincy lives in Khanabad then Quincy lives in Afghanistan,2
+If Quincy lives in Khanabad then Quincy lives in Kunduz Province or If Quincy lives in Khanabad then Quincy lives in Afghanistan,3
+If Quincy lives in Khanabad then Quincy lives in Afghanistan and If Quincy lives in Kunduz Province then Quincy lives in Afghanistan,4
+If Quincy lives in Khanabad then Quincy lives in Asia and If Quincy lives in Kunduz Province then Quincy lives in Asia,4
+If Quincy lives in Khanabad then Quincy lives in Afghanistan or If Quincy lives in Kunduz Province then Quincy lives in Afghanistan,5
+If Quincy lives in Khanabad then Quincy lives in Asia or If Quincy lives in Kunduz Province then Quincy lives in Asia,5
+If Rachel lives in Kunduz then Rachel lives in Kunduz Province,1
+If Rachel lives in Kunduz then Rachel lives in Afghanistan,1
+If Rachel lives in Kunduz then Rachel lives in Asia,1
+If Rachel lives in Kunduz Province then Rachel lives in Afghanistan,1
+If Rachel lives in Kunduz Province then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Kunduz then Rachel lives in Kunduz Province and If Rachel lives in Kunduz then Rachel lives in Afghanistan,2
+If Rachel lives in Kunduz then Rachel lives in Kunduz Province or If Rachel lives in Kunduz then Rachel lives in Afghanistan,3
+If Rachel lives in Kunduz then Rachel lives in Afghanistan and If Rachel lives in Kunduz Province then Rachel lives in Afghanistan,4
+If Rachel lives in Kunduz then Rachel lives in Asia and If Rachel lives in Kunduz Province then Rachel lives in Asia,4
+If Rachel lives in Kunduz then Rachel lives in Afghanistan or If Rachel lives in Kunduz Province then Rachel lives in Afghanistan,5
+If Rachel lives in Kunduz then Rachel lives in Asia or If Rachel lives in Kunduz Province then Rachel lives in Asia,5
+If Charlie lives in Qarāwul then Charlie lives in Kunduz Province,1
+If Charlie lives in Qarāwul then Charlie lives in Afghanistan,1
+If Charlie lives in Qarāwul then Charlie lives in Asia,1
+If Charlie lives in Kunduz Province then Charlie lives in Afghanistan,1
+If Charlie lives in Kunduz Province then Charlie lives in Asia,1
+If Charlie lives in Afghanistan then Charlie lives in Asia,1
+If Charlie lives in Qarāwul then Charlie lives in Kunduz Province and If Charlie lives in Qarāwul then Charlie lives in Afghanistan,2
+If Charlie lives in Qarāwul then Charlie lives in Kunduz Province or If Charlie lives in Qarāwul then Charlie lives in Afghanistan,3
+If Charlie lives in Qarāwul then Charlie lives in Afghanistan and If Charlie lives in Kunduz Province then Charlie lives in Afghanistan,4
+If Charlie lives in Qarāwul then Charlie lives in Asia and If Charlie lives in Kunduz Province then Charlie lives in Asia,4
+If Charlie lives in Qarāwul then Charlie lives in Afghanistan or If Charlie lives in Kunduz Province then Charlie lives in Afghanistan,5
+If Charlie lives in Qarāwul then Charlie lives in Asia or If Charlie lives in Kunduz Province then Charlie lives in Asia,5
+If Ian lives in Mehtar Lām then Ian lives in Laghman,1
+If Ian lives in Mehtar Lām then Ian lives in Afghanistan,1
+If Ian lives in Mehtar Lām then Ian lives in Asia,1
+If Ian lives in Laghman then Ian lives in Afghanistan,1
+If Ian lives in Laghman then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Mehtar Lām then Ian lives in Laghman and If Ian lives in Mehtar Lām then Ian lives in Afghanistan,2
+If Ian lives in Mehtar Lām then Ian lives in Laghman or If Ian lives in Mehtar Lām then Ian lives in Afghanistan,3
+If Ian lives in Mehtar Lām then Ian lives in Afghanistan and If Ian lives in Laghman then Ian lives in Afghanistan,4
+If Ian lives in Mehtar Lām then Ian lives in Asia and If Ian lives in Laghman then Ian lives in Asia,4
+If Ian lives in Mehtar Lām then Ian lives in Afghanistan or If Ian lives in Laghman then Ian lives in Afghanistan,5
+If Ian lives in Mehtar Lām then Ian lives in Asia or If Ian lives in Laghman then Ian lives in Asia,5
+If Tina lives in Baraki Barak then Tina lives in Logar,1
+If Tina lives in Baraki Barak then Tina lives in Afghanistan,1
+If Tina lives in Baraki Barak then Tina lives in Asia,1
+If Tina lives in Logar then Tina lives in Afghanistan,1
+If Tina lives in Logar then Tina lives in Asia,1
+If Tina lives in Afghanistan then Tina lives in Asia,1
+If Tina lives in Baraki Barak then Tina lives in Logar and If Tina lives in Baraki Barak then Tina lives in Afghanistan,2
+If Tina lives in Baraki Barak then Tina lives in Logar or If Tina lives in Baraki Barak then Tina lives in Afghanistan,3
+If Tina lives in Baraki Barak then Tina lives in Afghanistan and If Tina lives in Logar then Tina lives in Afghanistan,4
+If Tina lives in Baraki Barak then Tina lives in Asia and If Tina lives in Logar then Tina lives in Asia,4
+If Tina lives in Baraki Barak then Tina lives in Afghanistan or If Tina lives in Logar then Tina lives in Afghanistan,5
+If Tina lives in Baraki Barak then Tina lives in Asia or If Tina lives in Logar then Tina lives in Asia,5
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Logar,1
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Afghanistan,1
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Asia,1
+If Oscar lives in Logar then Oscar lives in Afghanistan,1
+If Oscar lives in Logar then Oscar lives in Asia,1
+If Oscar lives in Afghanistan then Oscar lives in Asia,1
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Logar and If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Afghanistan,2
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Logar or If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Afghanistan,3
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Afghanistan and If Oscar lives in Logar then Oscar lives in Afghanistan,4
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Asia and If Oscar lives in Logar then Oscar lives in Asia,4
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Afghanistan or If Oscar lives in Logar then Oscar lives in Afghanistan,5
+If Oscar lives in Ḩukūmatī Azrah then Oscar lives in Asia or If Oscar lives in Logar then Oscar lives in Asia,5
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Logar,1
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Afghanistan,1
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Asia,1
+If Kevin lives in Logar then Kevin lives in Afghanistan,1
+If Kevin lives in Logar then Kevin lives in Asia,1
+If Kevin lives in Afghanistan then Kevin lives in Asia,1
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Logar and If Kevin lives in Pul-e ‘Alam then Kevin lives in Afghanistan,2
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Logar or If Kevin lives in Pul-e ‘Alam then Kevin lives in Afghanistan,3
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Afghanistan and If Kevin lives in Logar then Kevin lives in Afghanistan,4
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Asia and If Kevin lives in Logar then Kevin lives in Asia,4
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Afghanistan or If Kevin lives in Logar then Kevin lives in Afghanistan,5
+If Kevin lives in Pul-e ‘Alam then Kevin lives in Asia or If Kevin lives in Logar then Kevin lives in Asia,5
+If Lily lives in Bāsawul then Lily lives in Nangarhar,1
+If Lily lives in Bāsawul then Lily lives in Afghanistan,1
+If Lily lives in Bāsawul then Lily lives in Asia,1
+If Lily lives in Nangarhar then Lily lives in Afghanistan,1
+If Lily lives in Nangarhar then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Bāsawul then Lily lives in Nangarhar and If Lily lives in Bāsawul then Lily lives in Afghanistan,2
+If Lily lives in Bāsawul then Lily lives in Nangarhar or If Lily lives in Bāsawul then Lily lives in Afghanistan,3
+If Lily lives in Bāsawul then Lily lives in Afghanistan and If Lily lives in Nangarhar then Lily lives in Afghanistan,4
+If Lily lives in Bāsawul then Lily lives in Asia and If Lily lives in Nangarhar then Lily lives in Asia,4
+If Lily lives in Bāsawul then Lily lives in Afghanistan or If Lily lives in Nangarhar then Lily lives in Afghanistan,5
+If Lily lives in Bāsawul then Lily lives in Asia or If Lily lives in Nangarhar then Lily lives in Asia,5
+If Walter lives in Jalālābād then Walter lives in Nangarhar,1
+If Walter lives in Jalālābād then Walter lives in Afghanistan,1
+If Walter lives in Jalālābād then Walter lives in Asia,1
+If Walter lives in Nangarhar then Walter lives in Afghanistan,1
+If Walter lives in Nangarhar then Walter lives in Asia,1
+If Walter lives in Afghanistan then Walter lives in Asia,1
+If Walter lives in Jalālābād then Walter lives in Nangarhar and If Walter lives in Jalālābād then Walter lives in Afghanistan,2
+If Walter lives in Jalālābād then Walter lives in Nangarhar or If Walter lives in Jalālābād then Walter lives in Afghanistan,3
+If Walter lives in Jalālābād then Walter lives in Afghanistan and If Walter lives in Nangarhar then Walter lives in Afghanistan,4
+If Walter lives in Jalālābād then Walter lives in Asia and If Walter lives in Nangarhar then Walter lives in Asia,4
+If Walter lives in Jalālābād then Walter lives in Afghanistan or If Walter lives in Nangarhar then Walter lives in Afghanistan,5
+If Walter lives in Jalālābād then Walter lives in Asia or If Walter lives in Nangarhar then Walter lives in Asia,5
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Nangarhar,1
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Afghanistan,1
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Asia,1
+If Vera lives in Nangarhar then Vera lives in Afghanistan,1
+If Vera lives in Nangarhar then Vera lives in Asia,1
+If Vera lives in Afghanistan then Vera lives in Asia,1
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Nangarhar and If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Afghanistan,2
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Nangarhar or If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Afghanistan,3
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Afghanistan and If Vera lives in Nangarhar then Vera lives in Afghanistan,4
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Asia and If Vera lives in Nangarhar then Vera lives in Asia,4
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Afghanistan or If Vera lives in Nangarhar then Vera lives in Afghanistan,5
+If Vera lives in Markaz-e Woluswalī-ye Āchīn then Vera lives in Asia or If Vera lives in Nangarhar then Vera lives in Asia,5
+If Umar lives in Khāsh then Umar lives in Nimruz,1
+If Umar lives in Khāsh then Umar lives in Afghanistan,1
+If Umar lives in Khāsh then Umar lives in Asia,1
+If Umar lives in Nimruz then Umar lives in Afghanistan,1
+If Umar lives in Nimruz then Umar lives in Asia,1
+If Umar lives in Afghanistan then Umar lives in Asia,1
+If Umar lives in Khāsh then Umar lives in Nimruz and If Umar lives in Khāsh then Umar lives in Afghanistan,2
+If Umar lives in Khāsh then Umar lives in Nimruz or If Umar lives in Khāsh then Umar lives in Afghanistan,3
+If Umar lives in Khāsh then Umar lives in Afghanistan and If Umar lives in Nimruz then Umar lives in Afghanistan,4
+If Umar lives in Khāsh then Umar lives in Asia and If Umar lives in Nimruz then Umar lives in Asia,4
+If Umar lives in Khāsh then Umar lives in Afghanistan or If Umar lives in Nimruz then Umar lives in Afghanistan,5
+If Umar lives in Khāsh then Umar lives in Asia or If Umar lives in Nimruz then Umar lives in Asia,5
+If Lily lives in Mīrābād then Lily lives in Nimruz,1
+If Lily lives in Mīrābād then Lily lives in Afghanistan,1
+If Lily lives in Mīrābād then Lily lives in Asia,1
+If Lily lives in Nimruz then Lily lives in Afghanistan,1
+If Lily lives in Nimruz then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Mīrābād then Lily lives in Nimruz and If Lily lives in Mīrābād then Lily lives in Afghanistan,2
+If Lily lives in Mīrābād then Lily lives in Nimruz or If Lily lives in Mīrābād then Lily lives in Afghanistan,3
+If Lily lives in Mīrābād then Lily lives in Afghanistan and If Lily lives in Nimruz then Lily lives in Afghanistan,4
+If Lily lives in Mīrābād then Lily lives in Asia and If Lily lives in Nimruz then Lily lives in Asia,4
+If Lily lives in Mīrābād then Lily lives in Afghanistan or If Lily lives in Nimruz then Lily lives in Afghanistan,5
+If Lily lives in Mīrābād then Lily lives in Asia or If Lily lives in Nimruz then Lily lives in Asia,5
+If Paula lives in Rūdbār then Paula lives in Nimruz,1
+If Paula lives in Rūdbār then Paula lives in Afghanistan,1
+If Paula lives in Rūdbār then Paula lives in Asia,1
+If Paula lives in Nimruz then Paula lives in Afghanistan,1
+If Paula lives in Nimruz then Paula lives in Asia,1
+If Paula lives in Afghanistan then Paula lives in Asia,1
+If Paula lives in Rūdbār then Paula lives in Nimruz and If Paula lives in Rūdbār then Paula lives in Afghanistan,2
+If Paula lives in Rūdbār then Paula lives in Nimruz or If Paula lives in Rūdbār then Paula lives in Afghanistan,3
+If Paula lives in Rūdbār then Paula lives in Afghanistan and If Paula lives in Nimruz then Paula lives in Afghanistan,4
+If Paula lives in Rūdbār then Paula lives in Asia and If Paula lives in Nimruz then Paula lives in Asia,4
+If Paula lives in Rūdbār then Paula lives in Afghanistan or If Paula lives in Nimruz then Paula lives in Afghanistan,5
+If Paula lives in Rūdbār then Paula lives in Asia or If Paula lives in Nimruz then Paula lives in Asia,5
+If Alice lives in Zaranj then Alice lives in Nimruz,1
+If Alice lives in Zaranj then Alice lives in Afghanistan,1
+If Alice lives in Zaranj then Alice lives in Asia,1
+If Alice lives in Nimruz then Alice lives in Afghanistan,1
+If Alice lives in Nimruz then Alice lives in Asia,1
+If Alice lives in Afghanistan then Alice lives in Asia,1
+If Alice lives in Zaranj then Alice lives in Nimruz and If Alice lives in Zaranj then Alice lives in Afghanistan,2
+If Alice lives in Zaranj then Alice lives in Nimruz or If Alice lives in Zaranj then Alice lives in Afghanistan,3
+If Alice lives in Zaranj then Alice lives in Afghanistan and If Alice lives in Nimruz then Alice lives in Afghanistan,4
+If Alice lives in Zaranj then Alice lives in Asia and If Alice lives in Nimruz then Alice lives in Asia,4
+If Alice lives in Zaranj then Alice lives in Afghanistan or If Alice lives in Nimruz then Alice lives in Afghanistan,5
+If Alice lives in Zaranj then Alice lives in Asia or If Alice lives in Nimruz then Alice lives in Asia,5
+If Yara lives in Pārūn then Yara lives in Nuristan,1
+If Yara lives in Pārūn then Yara lives in Afghanistan,1
+If Yara lives in Pārūn then Yara lives in Asia,1
+If Yara lives in Nuristan then Yara lives in Afghanistan,1
+If Yara lives in Nuristan then Yara lives in Asia,1
+If Yara lives in Afghanistan then Yara lives in Asia,1
+If Yara lives in Pārūn then Yara lives in Nuristan and If Yara lives in Pārūn then Yara lives in Afghanistan,2
+If Yara lives in Pārūn then Yara lives in Nuristan or If Yara lives in Pārūn then Yara lives in Afghanistan,3
+If Yara lives in Pārūn then Yara lives in Afghanistan and If Yara lives in Nuristan then Yara lives in Afghanistan,4
+If Yara lives in Pārūn then Yara lives in Asia and If Yara lives in Nuristan then Yara lives in Asia,4
+If Yara lives in Pārūn then Yara lives in Afghanistan or If Yara lives in Nuristan then Yara lives in Afghanistan,5
+If Yara lives in Pārūn then Yara lives in Asia or If Yara lives in Nuristan then Yara lives in Asia,5
+If Paula lives in Gardez then Paula lives in Paktia,1
+If Paula lives in Gardez then Paula lives in Afghanistan,1
+If Paula lives in Gardez then Paula lives in Asia,1
+If Paula lives in Paktia then Paula lives in Afghanistan,1
+If Paula lives in Paktia then Paula lives in Asia,1
+If Paula lives in Afghanistan then Paula lives in Asia,1
+If Paula lives in Gardez then Paula lives in Paktia and If Paula lives in Gardez then Paula lives in Afghanistan,2
+If Paula lives in Gardez then Paula lives in Paktia or If Paula lives in Gardez then Paula lives in Afghanistan,3
+If Paula lives in Gardez then Paula lives in Afghanistan and If Paula lives in Paktia then Paula lives in Afghanistan,4
+If Paula lives in Gardez then Paula lives in Asia and If Paula lives in Paktia then Paula lives in Asia,4
+If Paula lives in Gardez then Paula lives in Afghanistan or If Paula lives in Paktia then Paula lives in Afghanistan,5
+If Paula lives in Gardez then Paula lives in Asia or If Paula lives in Paktia then Paula lives in Asia,5
+If Lily lives in Saṟōbī then Lily lives in Paktika,1
+If Lily lives in Saṟōbī then Lily lives in Afghanistan,1
+If Lily lives in Saṟōbī then Lily lives in Asia,1
+If Lily lives in Paktika then Lily lives in Afghanistan,1
+If Lily lives in Paktika then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Saṟōbī then Lily lives in Paktika and If Lily lives in Saṟōbī then Lily lives in Afghanistan,2
+If Lily lives in Saṟōbī then Lily lives in Paktika or If Lily lives in Saṟōbī then Lily lives in Afghanistan,3
+If Lily lives in Saṟōbī then Lily lives in Afghanistan and If Lily lives in Paktika then Lily lives in Afghanistan,4
+If Lily lives in Saṟōbī then Lily lives in Asia and If Lily lives in Paktika then Lily lives in Asia,4
+If Lily lives in Saṟōbī then Lily lives in Afghanistan or If Lily lives in Paktika then Lily lives in Afghanistan,5
+If Lily lives in Saṟōbī then Lily lives in Asia or If Lily lives in Paktika then Lily lives in Asia,5
+If Quincy lives in Zaṟah Sharan then Quincy lives in Paktika,1
+If Quincy lives in Zaṟah Sharan then Quincy lives in Afghanistan,1
+If Quincy lives in Zaṟah Sharan then Quincy lives in Asia,1
+If Quincy lives in Paktika then Quincy lives in Afghanistan,1
+If Quincy lives in Paktika then Quincy lives in Asia,1
+If Quincy lives in Afghanistan then Quincy lives in Asia,1
+If Quincy lives in Zaṟah Sharan then Quincy lives in Paktika and If Quincy lives in Zaṟah Sharan then Quincy lives in Afghanistan,2
+If Quincy lives in Zaṟah Sharan then Quincy lives in Paktika or If Quincy lives in Zaṟah Sharan then Quincy lives in Afghanistan,3
+If Quincy lives in Zaṟah Sharan then Quincy lives in Afghanistan and If Quincy lives in Paktika then Quincy lives in Afghanistan,4
+If Quincy lives in Zaṟah Sharan then Quincy lives in Asia and If Quincy lives in Paktika then Quincy lives in Asia,4
+If Quincy lives in Zaṟah Sharan then Quincy lives in Afghanistan or If Quincy lives in Paktika then Quincy lives in Afghanistan,5
+If Quincy lives in Zaṟah Sharan then Quincy lives in Asia or If Quincy lives in Paktika then Quincy lives in Asia,5
+If Zane lives in Zarghūn Shahr then Zane lives in Paktika,1
+If Zane lives in Zarghūn Shahr then Zane lives in Afghanistan,1
+If Zane lives in Zarghūn Shahr then Zane lives in Asia,1
+If Zane lives in Paktika then Zane lives in Afghanistan,1
+If Zane lives in Paktika then Zane lives in Asia,1
+If Zane lives in Afghanistan then Zane lives in Asia,1
+If Zane lives in Zarghūn Shahr then Zane lives in Paktika and If Zane lives in Zarghūn Shahr then Zane lives in Afghanistan,2
+If Zane lives in Zarghūn Shahr then Zane lives in Paktika or If Zane lives in Zarghūn Shahr then Zane lives in Afghanistan,3
+If Zane lives in Zarghūn Shahr then Zane lives in Afghanistan and If Zane lives in Paktika then Zane lives in Afghanistan,4
+If Zane lives in Zarghūn Shahr then Zane lives in Asia and If Zane lives in Paktika then Zane lives in Asia,4
+If Zane lives in Zarghūn Shahr then Zane lives in Afghanistan or If Zane lives in Paktika then Zane lives in Afghanistan,5
+If Zane lives in Zarghūn Shahr then Zane lives in Asia or If Zane lives in Paktika then Zane lives in Asia,5
+If Lily lives in Bāzārak then Lily lives in Panjshir,1
+If Lily lives in Bāzārak then Lily lives in Afghanistan,1
+If Lily lives in Bāzārak then Lily lives in Asia,1
+If Lily lives in Panjshir then Lily lives in Afghanistan,1
+If Lily lives in Panjshir then Lily lives in Asia,1
+If Lily lives in Afghanistan then Lily lives in Asia,1
+If Lily lives in Bāzārak then Lily lives in Panjshir and If Lily lives in Bāzārak then Lily lives in Afghanistan,2
+If Lily lives in Bāzārak then Lily lives in Panjshir or If Lily lives in Bāzārak then Lily lives in Afghanistan,3
+If Lily lives in Bāzārak then Lily lives in Afghanistan and If Lily lives in Panjshir then Lily lives in Afghanistan,4
+If Lily lives in Bāzārak then Lily lives in Asia and If Lily lives in Panjshir then Lily lives in Asia,4
+If Lily lives in Bāzārak then Lily lives in Afghanistan or If Lily lives in Panjshir then Lily lives in Afghanistan,5
+If Lily lives in Bāzārak then Lily lives in Asia or If Lily lives in Panjshir then Lily lives in Asia,5
+If Kevin lives in Charikar then Kevin lives in Parwan,1
+If Kevin lives in Charikar then Kevin lives in Afghanistan,1
+If Kevin lives in Charikar then Kevin lives in Asia,1
+If Kevin lives in Parwan then Kevin lives in Afghanistan,1
+If Kevin lives in Parwan then Kevin lives in Asia,1
+If Kevin lives in Afghanistan then Kevin lives in Asia,1
+If Kevin lives in Charikar then Kevin lives in Parwan and If Kevin lives in Charikar then Kevin lives in Afghanistan,2
+If Kevin lives in Charikar then Kevin lives in Parwan or If Kevin lives in Charikar then Kevin lives in Afghanistan,3
+If Kevin lives in Charikar then Kevin lives in Afghanistan and If Kevin lives in Parwan then Kevin lives in Afghanistan,4
+If Kevin lives in Charikar then Kevin lives in Asia and If Kevin lives in Parwan then Kevin lives in Asia,4
+If Kevin lives in Charikar then Kevin lives in Afghanistan or If Kevin lives in Parwan then Kevin lives in Afghanistan,5
+If Kevin lives in Charikar then Kevin lives in Asia or If Kevin lives in Parwan then Kevin lives in Asia,5
+If Oscar lives in Jabal os Saraj then Oscar lives in Parwan,1
+If Oscar lives in Jabal os Saraj then Oscar lives in Afghanistan,1
+If Oscar lives in Jabal os Saraj then Oscar lives in Asia,1
+If Oscar lives in Parwan then Oscar lives in Afghanistan,1
+If Oscar lives in Parwan then Oscar lives in Asia,1
+If Oscar lives in Afghanistan then Oscar lives in Asia,1
+If Oscar lives in Jabal os Saraj then Oscar lives in Parwan and If Oscar lives in Jabal os Saraj then Oscar lives in Afghanistan,2
+If Oscar lives in Jabal os Saraj then Oscar lives in Parwan or If Oscar lives in Jabal os Saraj then Oscar lives in Afghanistan,3
+If Oscar lives in Jabal os Saraj then Oscar lives in Afghanistan and If Oscar lives in Parwan then Oscar lives in Afghanistan,4
+If Oscar lives in Jabal os Saraj then Oscar lives in Asia and If Oscar lives in Parwan then Oscar lives in Asia,4
+If Oscar lives in Jabal os Saraj then Oscar lives in Afghanistan or If Oscar lives in Parwan then Oscar lives in Afghanistan,5
+If Oscar lives in Jabal os Saraj then Oscar lives in Asia or If Oscar lives in Parwan then Oscar lives in Asia,5
+If Ian lives in Aībak then Ian lives in Samangan,1
+If Ian lives in Aībak then Ian lives in Afghanistan,1
+If Ian lives in Aībak then Ian lives in Asia,1
+If Ian lives in Samangan then Ian lives in Afghanistan,1
+If Ian lives in Samangan then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Aībak then Ian lives in Samangan and If Ian lives in Aībak then Ian lives in Afghanistan,2
+If Ian lives in Aībak then Ian lives in Samangan or If Ian lives in Aībak then Ian lives in Afghanistan,3
+If Ian lives in Aībak then Ian lives in Afghanistan and If Ian lives in Samangan then Ian lives in Afghanistan,4
+If Ian lives in Aībak then Ian lives in Asia and If Ian lives in Samangan then Ian lives in Asia,4
+If Ian lives in Aībak then Ian lives in Afghanistan or If Ian lives in Samangan then Ian lives in Afghanistan,5
+If Ian lives in Aībak then Ian lives in Asia or If Ian lives in Samangan then Ian lives in Asia,5
+If Vera lives in Chīras then Vera lives in Sar-e Pol,1
+If Vera lives in Chīras then Vera lives in Afghanistan,1
+If Vera lives in Chīras then Vera lives in Asia,1
+If Vera lives in Sar-e Pol then Vera lives in Afghanistan,1
+If Vera lives in Sar-e Pol then Vera lives in Asia,1
+If Vera lives in Afghanistan then Vera lives in Asia,1
+If Vera lives in Chīras then Vera lives in Sar-e Pol and If Vera lives in Chīras then Vera lives in Afghanistan,2
+If Vera lives in Chīras then Vera lives in Sar-e Pol or If Vera lives in Chīras then Vera lives in Afghanistan,3
+If Vera lives in Chīras then Vera lives in Afghanistan and If Vera lives in Sar-e Pol then Vera lives in Afghanistan,4
+If Vera lives in Chīras then Vera lives in Asia and If Vera lives in Sar-e Pol then Vera lives in Asia,4
+If Vera lives in Chīras then Vera lives in Afghanistan or If Vera lives in Sar-e Pol then Vera lives in Afghanistan,5
+If Vera lives in Chīras then Vera lives in Asia or If Vera lives in Sar-e Pol then Vera lives in Asia,5
+If Nina lives in Larkird then Nina lives in Sar-e Pol,1
+If Nina lives in Larkird then Nina lives in Afghanistan,1
+If Nina lives in Larkird then Nina lives in Asia,1
+If Nina lives in Sar-e Pol then Nina lives in Afghanistan,1
+If Nina lives in Sar-e Pol then Nina lives in Asia,1
+If Nina lives in Afghanistan then Nina lives in Asia,1
+If Nina lives in Larkird then Nina lives in Sar-e Pol and If Nina lives in Larkird then Nina lives in Afghanistan,2
+If Nina lives in Larkird then Nina lives in Sar-e Pol or If Nina lives in Larkird then Nina lives in Afghanistan,3
+If Nina lives in Larkird then Nina lives in Afghanistan and If Nina lives in Sar-e Pol then Nina lives in Afghanistan,4
+If Nina lives in Larkird then Nina lives in Asia and If Nina lives in Sar-e Pol then Nina lives in Asia,4
+If Nina lives in Larkird then Nina lives in Afghanistan or If Nina lives in Sar-e Pol then Nina lives in Afghanistan,5
+If Nina lives in Larkird then Nina lives in Asia or If Nina lives in Sar-e Pol then Nina lives in Asia,5
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Sar-e Pol,1
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Afghanistan,1
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Asia,1
+If Ian lives in Sar-e Pol then Ian lives in Afghanistan,1
+If Ian lives in Sar-e Pol then Ian lives in Asia,1
+If Ian lives in Afghanistan then Ian lives in Asia,1
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Sar-e Pol and If Ian lives in Qal‘ah-ye Shahr then Ian lives in Afghanistan,2
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Sar-e Pol or If Ian lives in Qal‘ah-ye Shahr then Ian lives in Afghanistan,3
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Afghanistan and If Ian lives in Sar-e Pol then Ian lives in Afghanistan,4
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Asia and If Ian lives in Sar-e Pol then Ian lives in Asia,4
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Afghanistan or If Ian lives in Sar-e Pol then Ian lives in Afghanistan,5
+If Ian lives in Qal‘ah-ye Shahr then Ian lives in Asia or If Ian lives in Sar-e Pol then Ian lives in Asia,5
+If Nina lives in Sang-e Chārak then Nina lives in Sar-e Pol,1
+If Nina lives in Sang-e Chārak then Nina lives in Afghanistan,1
+If Nina lives in Sang-e Chārak then Nina lives in Asia,1
+If Nina lives in Sar-e Pol then Nina lives in Afghanistan,1
+If Nina lives in Sar-e Pol then Nina lives in Asia,1
+If Nina lives in Afghanistan then Nina lives in Asia,1
+If Nina lives in Sang-e Chārak then Nina lives in Sar-e Pol and If Nina lives in Sang-e Chārak then Nina lives in Afghanistan,2
+If Nina lives in Sang-e Chārak then Nina lives in Sar-e Pol or If Nina lives in Sang-e Chārak then Nina lives in Afghanistan,3
+If Nina lives in Sang-e Chārak then Nina lives in Afghanistan and If Nina lives in Sar-e Pol then Nina lives in Afghanistan,4
+If Nina lives in Sang-e Chārak then Nina lives in Asia and If Nina lives in Sar-e Pol then Nina lives in Asia,4
+If Nina lives in Sang-e Chārak then Nina lives in Afghanistan or If Nina lives in Sar-e Pol then Nina lives in Afghanistan,5
+If Nina lives in Sang-e Chārak then Nina lives in Asia or If Nina lives in Sar-e Pol then Nina lives in Asia,5
+If Walter lives in Sar-e Pul then Walter lives in Sar-e Pol,1
+If Walter lives in Sar-e Pul then Walter lives in Afghanistan,1
+If Walter lives in Sar-e Pul then Walter lives in Asia,1
+If Walter lives in Sar-e Pol then Walter lives in Afghanistan,1
+If Walter lives in Sar-e Pol then Walter lives in Asia,1
+If Walter lives in Afghanistan then Walter lives in Asia,1
+If Walter lives in Sar-e Pul then Walter lives in Sar-e Pol and If Walter lives in Sar-e Pul then Walter lives in Afghanistan,2
+If Walter lives in Sar-e Pul then Walter lives in Sar-e Pol or If Walter lives in Sar-e Pul then Walter lives in Afghanistan,3
+If Walter lives in Sar-e Pul then Walter lives in Afghanistan and If Walter lives in Sar-e Pol then Walter lives in Afghanistan,4
+If Walter lives in Sar-e Pul then Walter lives in Asia and If Walter lives in Sar-e Pol then Walter lives in Asia,4
+If Walter lives in Sar-e Pul then Walter lives in Afghanistan or If Walter lives in Sar-e Pol then Walter lives in Afghanistan,5
+If Walter lives in Sar-e Pul then Walter lives in Asia or If Walter lives in Sar-e Pol then Walter lives in Asia,5
+If Mason lives in Tagāw-Bāy then Mason lives in Sar-e Pol,1
+If Mason lives in Tagāw-Bāy then Mason lives in Afghanistan,1
+If Mason lives in Tagāw-Bāy then Mason lives in Asia,1
+If Mason lives in Sar-e Pol then Mason lives in Afghanistan,1
+If Mason lives in Sar-e Pol then Mason lives in Asia,1
+If Mason lives in Afghanistan then Mason lives in Asia,1
+If Mason lives in Tagāw-Bāy then Mason lives in Sar-e Pol and If Mason lives in Tagāw-Bāy then Mason lives in Afghanistan,2
+If Mason lives in Tagāw-Bāy then Mason lives in Sar-e Pol or If Mason lives in Tagāw-Bāy then Mason lives in Afghanistan,3
+If Mason lives in Tagāw-Bāy then Mason lives in Afghanistan and If Mason lives in Sar-e Pol then Mason lives in Afghanistan,4
+If Mason lives in Tagāw-Bāy then Mason lives in Asia and If Mason lives in Sar-e Pol then Mason lives in Asia,4
+If Mason lives in Tagāw-Bāy then Mason lives in Afghanistan or If Mason lives in Sar-e Pol then Mason lives in Afghanistan,5
+If Mason lives in Tagāw-Bāy then Mason lives in Asia or If Mason lives in Sar-e Pol then Mason lives in Asia,5
+If George lives in Tukzār then George lives in Sar-e Pol,1
+If George lives in Tukzār then George lives in Afghanistan,1
+If George lives in Tukzār then George lives in Asia,1
+If George lives in Sar-e Pol then George lives in Afghanistan,1
+If George lives in Sar-e Pol then George lives in Asia,1
+If George lives in Afghanistan then George lives in Asia,1
+If George lives in Tukzār then George lives in Sar-e Pol and If George lives in Tukzār then George lives in Afghanistan,2
+If George lives in Tukzār then George lives in Sar-e Pol or If George lives in Tukzār then George lives in Afghanistan,3
+If George lives in Tukzār then George lives in Afghanistan and If George lives in Sar-e Pol then George lives in Afghanistan,4
+If George lives in Tukzār then George lives in Asia and If George lives in Sar-e Pol then George lives in Asia,4
+If George lives in Tukzār then George lives in Afghanistan or If George lives in Sar-e Pol then George lives in Afghanistan,5
+If George lives in Tukzār then George lives in Asia or If George lives in Sar-e Pol then George lives in Asia,5
+If Vera lives in Ārt Khwājah then Vera lives in Takhar,1
+If Vera lives in Ārt Khwājah then Vera lives in Afghanistan,1
+If Vera lives in Ārt Khwājah then Vera lives in Asia,1
+If Vera lives in Takhar then Vera lives in Afghanistan,1
+If Vera lives in Takhar then Vera lives in Asia,1
+If Vera lives in Afghanistan then Vera lives in Asia,1
+If Vera lives in Ārt Khwājah then Vera lives in Takhar and If Vera lives in Ārt Khwājah then Vera lives in Afghanistan,2
+If Vera lives in Ārt Khwājah then Vera lives in Takhar or If Vera lives in Ārt Khwājah then Vera lives in Afghanistan,3
+If Vera lives in Ārt Khwājah then Vera lives in Afghanistan and If Vera lives in Takhar then Vera lives in Afghanistan,4
+If Vera lives in Ārt Khwājah then Vera lives in Asia and If Vera lives in Takhar then Vera lives in Asia,4
+If Vera lives in Ārt Khwājah then Vera lives in Afghanistan or If Vera lives in Takhar then Vera lives in Afghanistan,5
+If Vera lives in Ārt Khwājah then Vera lives in Asia or If Vera lives in Takhar then Vera lives in Asia,5
+If Hannah lives in Taloqan then Hannah lives in Takhar,1
+If Hannah lives in Taloqan then Hannah lives in Afghanistan,1
+If Hannah lives in Taloqan then Hannah lives in Asia,1
+If Hannah lives in Takhar then Hannah lives in Afghanistan,1
+If Hannah lives in Takhar then Hannah lives in Asia,1
+If Hannah lives in Afghanistan then Hannah lives in Asia,1
+If Hannah lives in Taloqan then Hannah lives in Takhar and If Hannah lives in Taloqan then Hannah lives in Afghanistan,2
+If Hannah lives in Taloqan then Hannah lives in Takhar or If Hannah lives in Taloqan then Hannah lives in Afghanistan,3
+If Hannah lives in Taloqan then Hannah lives in Afghanistan and If Hannah lives in Takhar then Hannah lives in Afghanistan,4
+If Hannah lives in Taloqan then Hannah lives in Asia and If Hannah lives in Takhar then Hannah lives in Asia,4
+If Hannah lives in Taloqan then Hannah lives in Afghanistan or If Hannah lives in Takhar then Hannah lives in Afghanistan,5
+If Hannah lives in Taloqan then Hannah lives in Asia or If Hannah lives in Takhar then Hannah lives in Asia,5
+If Rachel lives in Tarinkot then Rachel lives in Urozgan,1
+If Rachel lives in Tarinkot then Rachel lives in Afghanistan,1
+If Rachel lives in Tarinkot then Rachel lives in Asia,1
+If Rachel lives in Urozgan then Rachel lives in Afghanistan,1
+If Rachel lives in Urozgan then Rachel lives in Asia,1
+If Rachel lives in Afghanistan then Rachel lives in Asia,1
+If Rachel lives in Tarinkot then Rachel lives in Urozgan and If Rachel lives in Tarinkot then Rachel lives in Afghanistan,2
+If Rachel lives in Tarinkot then Rachel lives in Urozgan or If Rachel lives in Tarinkot then Rachel lives in Afghanistan,3
+If Rachel lives in Tarinkot then Rachel lives in Afghanistan and If Rachel lives in Urozgan then Rachel lives in Afghanistan,4
+If Rachel lives in Tarinkot then Rachel lives in Asia and If Rachel lives in Urozgan then Rachel lives in Asia,4
+If Rachel lives in Tarinkot then Rachel lives in Afghanistan or If Rachel lives in Urozgan then Rachel lives in Afghanistan,5
+If Rachel lives in Tarinkot then Rachel lives in Asia or If Rachel lives in Urozgan then Rachel lives in Asia,5
+If Paula lives in Uruzgān then Paula lives in Urozgan,1
+If Paula lives in Uruzgān then Paula lives in Afghanistan,1
+If Paula lives in Uruzgān then Paula lives in Asia,1
+If Paula lives in Urozgan then Paula lives in Afghanistan,1
+If Paula lives in Urozgan then Paula lives in Asia,1
+If Paula lives in Afghanistan then Paula lives in Asia,1
+If Paula lives in Uruzgān then Paula lives in Urozgan and If Paula lives in Uruzgān then Paula lives in Afghanistan,2
+If Paula lives in Uruzgān then Paula lives in Urozgan or If Paula lives in Uruzgān then Paula lives in Afghanistan,3
+If Paula lives in Uruzgān then Paula lives in Afghanistan and If Paula lives in Urozgan then Paula lives in Afghanistan,4
+If Paula lives in Uruzgān then Paula lives in Asia and If Paula lives in Urozgan then Paula lives in Asia,4
+If Paula lives in Uruzgān then Paula lives in Afghanistan or If Paula lives in Urozgan then Paula lives in Afghanistan,5
+If Paula lives in Uruzgān then Paula lives in Asia or If Paula lives in Urozgan then Paula lives in Asia,5
+If Oscar lives in Qalāt then Oscar lives in Zabul,1
+If Oscar lives in Qalāt then Oscar lives in Afghanistan,1
+If Oscar lives in Qalāt then Oscar lives in Asia,1
+If Oscar lives in Zabul then Oscar lives in Afghanistan,1
+If Oscar lives in Zabul then Oscar lives in Asia,1
+If Oscar lives in Afghanistan then Oscar lives in Asia,1
+If Oscar lives in Qalāt then Oscar lives in Zabul and If Oscar lives in Qalāt then Oscar lives in Afghanistan,2
+If Oscar lives in Qalāt then Oscar lives in Zabul or If Oscar lives in Qalāt then Oscar lives in Afghanistan,3
+If Oscar lives in Qalāt then Oscar lives in Afghanistan and If Oscar lives in Zabul then Oscar lives in Afghanistan,4
+If Oscar lives in Qalāt then Oscar lives in Asia and If Oscar lives in Zabul then Oscar lives in Asia,4
+If Oscar lives in Qalāt then Oscar lives in Afghanistan or If Oscar lives in Zabul then Oscar lives in Afghanistan,5
+If Oscar lives in Qalāt then Oscar lives in Asia or If Oscar lives in Zabul then Oscar lives in Asia,5
+If Umar lives in Banaj then Umar lives in Berat District,1
+If Umar lives in Banaj then Umar lives in Albania,1
+If Umar lives in Banaj then Umar lives in Europe,1
+If Umar lives in Berat District then Umar lives in Albania,1
+If Umar lives in Berat District then Umar lives in Europe,1
+If Umar lives in Albania then Umar lives in Europe,1
+If Umar lives in Banaj then Umar lives in Berat District and If Umar lives in Banaj then Umar lives in Albania,2
+If Umar lives in Banaj then Umar lives in Berat District or If Umar lives in Banaj then Umar lives in Albania,3
+If Umar lives in Banaj then Umar lives in Albania and If Umar lives in Berat District then Umar lives in Albania,4
+If Umar lives in Banaj then Umar lives in Europe and If Umar lives in Berat District then Umar lives in Europe,4
+If Umar lives in Banaj then Umar lives in Albania or If Umar lives in Berat District then Umar lives in Albania,5
+If Umar lives in Banaj then Umar lives in Europe or If Umar lives in Berat District then Umar lives in Europe,5
+If Steve lives in Bashkia Berat then Steve lives in Berat District,1
+If Steve lives in Bashkia Berat then Steve lives in Albania,1
+If Steve lives in Bashkia Berat then Steve lives in Europe,1
+If Steve lives in Berat District then Steve lives in Albania,1
+If Steve lives in Berat District then Steve lives in Europe,1
+If Steve lives in Albania then Steve lives in Europe,1
+If Steve lives in Bashkia Berat then Steve lives in Berat District and If Steve lives in Bashkia Berat then Steve lives in Albania,2
+If Steve lives in Bashkia Berat then Steve lives in Berat District or If Steve lives in Bashkia Berat then Steve lives in Albania,3
+If Steve lives in Bashkia Berat then Steve lives in Albania and If Steve lives in Berat District then Steve lives in Albania,4
+If Steve lives in Bashkia Berat then Steve lives in Europe and If Steve lives in Berat District then Steve lives in Europe,4
+If Steve lives in Bashkia Berat then Steve lives in Albania or If Steve lives in Berat District then Steve lives in Albania,5
+If Steve lives in Bashkia Berat then Steve lives in Europe or If Steve lives in Berat District then Steve lives in Europe,5
+If George lives in Bashkia Kuçovë then George lives in Berat District,1
+If George lives in Bashkia Kuçovë then George lives in Albania,1
+If George lives in Bashkia Kuçovë then George lives in Europe,1
+If George lives in Berat District then George lives in Albania,1
+If George lives in Berat District then George lives in Europe,1
+If George lives in Albania then George lives in Europe,1
+If George lives in Bashkia Kuçovë then George lives in Berat District and If George lives in Bashkia Kuçovë then George lives in Albania,2
+If George lives in Bashkia Kuçovë then George lives in Berat District or If George lives in Bashkia Kuçovë then George lives in Albania,3
+If George lives in Bashkia Kuçovë then George lives in Albania and If George lives in Berat District then George lives in Albania,4
+If George lives in Bashkia Kuçovë then George lives in Europe and If George lives in Berat District then George lives in Europe,4
+If George lives in Bashkia Kuçovë then George lives in Albania or If George lives in Berat District then George lives in Albania,5
+If George lives in Bashkia Kuçovë then George lives in Europe or If George lives in Berat District then George lives in Europe,5
+If Mason lives in Bashkia Poliçan then Mason lives in Berat District,1
+If Mason lives in Bashkia Poliçan then Mason lives in Albania,1
+If Mason lives in Bashkia Poliçan then Mason lives in Europe,1
+If Mason lives in Berat District then Mason lives in Albania,1
+If Mason lives in Berat District then Mason lives in Europe,1
+If Mason lives in Albania then Mason lives in Europe,1
+If Mason lives in Bashkia Poliçan then Mason lives in Berat District and If Mason lives in Bashkia Poliçan then Mason lives in Albania,2
+If Mason lives in Bashkia Poliçan then Mason lives in Berat District or If Mason lives in Bashkia Poliçan then Mason lives in Albania,3
+If Mason lives in Bashkia Poliçan then Mason lives in Albania and If Mason lives in Berat District then Mason lives in Albania,4
+If Mason lives in Bashkia Poliçan then Mason lives in Europe and If Mason lives in Berat District then Mason lives in Europe,4
+If Mason lives in Bashkia Poliçan then Mason lives in Albania or If Mason lives in Berat District then Mason lives in Albania,5
+If Mason lives in Bashkia Poliçan then Mason lives in Europe or If Mason lives in Berat District then Mason lives in Europe,5
+If Walter lives in Bashkia Skrapar then Walter lives in Berat District,1
+If Walter lives in Bashkia Skrapar then Walter lives in Albania,1
+If Walter lives in Bashkia Skrapar then Walter lives in Europe,1
+If Walter lives in Berat District then Walter lives in Albania,1
+If Walter lives in Berat District then Walter lives in Europe,1
+If Walter lives in Albania then Walter lives in Europe,1
+If Walter lives in Bashkia Skrapar then Walter lives in Berat District and If Walter lives in Bashkia Skrapar then Walter lives in Albania,2
+If Walter lives in Bashkia Skrapar then Walter lives in Berat District or If Walter lives in Bashkia Skrapar then Walter lives in Albania,3
+If Walter lives in Bashkia Skrapar then Walter lives in Albania and If Walter lives in Berat District then Walter lives in Albania,4
+If Walter lives in Bashkia Skrapar then Walter lives in Europe and If Walter lives in Berat District then Walter lives in Europe,4
+If Walter lives in Bashkia Skrapar then Walter lives in Albania or If Walter lives in Berat District then Walter lives in Albania,5
+If Walter lives in Bashkia Skrapar then Walter lives in Europe or If Walter lives in Berat District then Walter lives in Europe,5
+If Charlie lives in Berat then Charlie lives in Berat District,1
+If Charlie lives in Berat then Charlie lives in Albania,1
+If Charlie lives in Berat then Charlie lives in Europe,1
+If Charlie lives in Berat District then Charlie lives in Albania,1
+If Charlie lives in Berat District then Charlie lives in Europe,1
+If Charlie lives in Albania then Charlie lives in Europe,1
+If Charlie lives in Berat then Charlie lives in Berat District and If Charlie lives in Berat then Charlie lives in Albania,2
+If Charlie lives in Berat then Charlie lives in Berat District or If Charlie lives in Berat then Charlie lives in Albania,3
+If Charlie lives in Berat then Charlie lives in Albania and If Charlie lives in Berat District then Charlie lives in Albania,4
+If Charlie lives in Berat then Charlie lives in Europe and If Charlie lives in Berat District then Charlie lives in Europe,4
+If Charlie lives in Berat then Charlie lives in Albania or If Charlie lives in Berat District then Charlie lives in Albania,5
+If Charlie lives in Berat then Charlie lives in Europe or If Charlie lives in Berat District then Charlie lives in Europe,5
+If George lives in Çorovodë then George lives in Berat District,1
+If George lives in Çorovodë then George lives in Albania,1
+If George lives in Çorovodë then George lives in Europe,1
+If George lives in Berat District then George lives in Albania,1
+If George lives in Berat District then George lives in Europe,1
+If George lives in Albania then George lives in Europe,1
+If George lives in Çorovodë then George lives in Berat District and If George lives in Çorovodë then George lives in Albania,2
+If George lives in Çorovodë then George lives in Berat District or If George lives in Çorovodë then George lives in Albania,3
+If George lives in Çorovodë then George lives in Albania and If George lives in Berat District then George lives in Albania,4
+If George lives in Çorovodë then George lives in Europe and If George lives in Berat District then George lives in Europe,4
+If George lives in Çorovodë then George lives in Albania or If George lives in Berat District then George lives in Albania,5
+If George lives in Çorovodë then George lives in Europe or If George lives in Berat District then George lives in Europe,5
+If Bob lives in Kuçovë then Bob lives in Berat District,1
+If Bob lives in Kuçovë then Bob lives in Albania,1
+If Bob lives in Kuçovë then Bob lives in Europe,1
+If Bob lives in Berat District then Bob lives in Albania,1
+If Bob lives in Berat District then Bob lives in Europe,1
+If Bob lives in Albania then Bob lives in Europe,1
+If Bob lives in Kuçovë then Bob lives in Berat District and If Bob lives in Kuçovë then Bob lives in Albania,2
+If Bob lives in Kuçovë then Bob lives in Berat District or If Bob lives in Kuçovë then Bob lives in Albania,3
+If Bob lives in Kuçovë then Bob lives in Albania and If Bob lives in Berat District then Bob lives in Albania,4
+If Bob lives in Kuçovë then Bob lives in Europe and If Bob lives in Berat District then Bob lives in Europe,4
+If Bob lives in Kuçovë then Bob lives in Albania or If Bob lives in Berat District then Bob lives in Albania,5
+If Bob lives in Kuçovë then Bob lives in Europe or If Bob lives in Berat District then Bob lives in Europe,5
+If Rachel lives in Poliçan then Rachel lives in Berat District,1
+If Rachel lives in Poliçan then Rachel lives in Albania,1
+If Rachel lives in Poliçan then Rachel lives in Europe,1
+If Rachel lives in Berat District then Rachel lives in Albania,1
+If Rachel lives in Berat District then Rachel lives in Europe,1
+If Rachel lives in Albania then Rachel lives in Europe,1
+If Rachel lives in Poliçan then Rachel lives in Berat District and If Rachel lives in Poliçan then Rachel lives in Albania,2
+If Rachel lives in Poliçan then Rachel lives in Berat District or If Rachel lives in Poliçan then Rachel lives in Albania,3
+If Rachel lives in Poliçan then Rachel lives in Albania and If Rachel lives in Berat District then Rachel lives in Albania,4
+If Rachel lives in Poliçan then Rachel lives in Europe and If Rachel lives in Berat District then Rachel lives in Europe,4
+If Rachel lives in Poliçan then Rachel lives in Albania or If Rachel lives in Berat District then Rachel lives in Albania,5
+If Rachel lives in Poliçan then Rachel lives in Europe or If Rachel lives in Berat District then Rachel lives in Europe,5
+If Yara lives in Rrethi i Beratit then Yara lives in Berat District,1
+If Yara lives in Rrethi i Beratit then Yara lives in Albania,1
+If Yara lives in Rrethi i Beratit then Yara lives in Europe,1
+If Yara lives in Berat District then Yara lives in Albania,1
+If Yara lives in Berat District then Yara lives in Europe,1
+If Yara lives in Albania then Yara lives in Europe,1
+If Yara lives in Rrethi i Beratit then Yara lives in Berat District and If Yara lives in Rrethi i Beratit then Yara lives in Albania,2
+If Yara lives in Rrethi i Beratit then Yara lives in Berat District or If Yara lives in Rrethi i Beratit then Yara lives in Albania,3
+If Yara lives in Rrethi i Beratit then Yara lives in Albania and If Yara lives in Berat District then Yara lives in Albania,4
+If Yara lives in Rrethi i Beratit then Yara lives in Europe and If Yara lives in Berat District then Yara lives in Europe,4
+If Yara lives in Rrethi i Beratit then Yara lives in Albania or If Yara lives in Berat District then Yara lives in Albania,5
+If Yara lives in Rrethi i Beratit then Yara lives in Europe or If Yara lives in Berat District then Yara lives in Europe,5
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Berat District,1
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Albania,1
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Europe,1
+If Ethan lives in Berat District then Ethan lives in Albania,1
+If Ethan lives in Berat District then Ethan lives in Europe,1
+If Ethan lives in Albania then Ethan lives in Europe,1
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Berat District and If Ethan lives in Rrethi i Kuçovës then Ethan lives in Albania,2
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Berat District or If Ethan lives in Rrethi i Kuçovës then Ethan lives in Albania,3
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Albania and If Ethan lives in Berat District then Ethan lives in Albania,4
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Europe and If Ethan lives in Berat District then Ethan lives in Europe,4
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Albania or If Ethan lives in Berat District then Ethan lives in Albania,5
+If Ethan lives in Rrethi i Kuçovës then Ethan lives in Europe or If Ethan lives in Berat District then Ethan lives in Europe,5
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Berat District,1
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Albania,1
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Europe,1
+If Rachel lives in Berat District then Rachel lives in Albania,1
+If Rachel lives in Berat District then Rachel lives in Europe,1
+If Rachel lives in Albania then Rachel lives in Europe,1
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Berat District and If Rachel lives in Rrethi i Skraparit then Rachel lives in Albania,2
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Berat District or If Rachel lives in Rrethi i Skraparit then Rachel lives in Albania,3
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Albania and If Rachel lives in Berat District then Rachel lives in Albania,4
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Europe and If Rachel lives in Berat District then Rachel lives in Europe,4
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Albania or If Rachel lives in Berat District then Rachel lives in Albania,5
+If Rachel lives in Rrethi i Skraparit then Rachel lives in Europe or If Rachel lives in Berat District then Rachel lives in Europe,5
+If Bob lives in Ura Vajgurore then Bob lives in Berat District,1
+If Bob lives in Ura Vajgurore then Bob lives in Albania,1
+If Bob lives in Ura Vajgurore then Bob lives in Europe,1
+If Bob lives in Berat District then Bob lives in Albania,1
+If Bob lives in Berat District then Bob lives in Europe,1
+If Bob lives in Albania then Bob lives in Europe,1
+If Bob lives in Ura Vajgurore then Bob lives in Berat District and If Bob lives in Ura Vajgurore then Bob lives in Albania,2
+If Bob lives in Ura Vajgurore then Bob lives in Berat District or If Bob lives in Ura Vajgurore then Bob lives in Albania,3
+If Bob lives in Ura Vajgurore then Bob lives in Albania and If Bob lives in Berat District then Bob lives in Albania,4
+If Bob lives in Ura Vajgurore then Bob lives in Europe and If Bob lives in Berat District then Bob lives in Europe,4
+If Bob lives in Ura Vajgurore then Bob lives in Albania or If Bob lives in Berat District then Bob lives in Albania,5
+If Bob lives in Ura Vajgurore then Bob lives in Europe or If Bob lives in Berat District then Bob lives in Europe,5
+If Julia lives in Bashkia Bulqizë then Julia lives in Dibër County,1
+If Julia lives in Bashkia Bulqizë then Julia lives in Albania,1
+If Julia lives in Bashkia Bulqizë then Julia lives in Europe,1
+If Julia lives in Dibër County then Julia lives in Albania,1
+If Julia lives in Dibër County then Julia lives in Europe,1
+If Julia lives in Albania then Julia lives in Europe,1
+If Julia lives in Bashkia Bulqizë then Julia lives in Dibër County and If Julia lives in Bashkia Bulqizë then Julia lives in Albania,2
+If Julia lives in Bashkia Bulqizë then Julia lives in Dibër County or If Julia lives in Bashkia Bulqizë then Julia lives in Albania,3
+If Julia lives in Bashkia Bulqizë then Julia lives in Albania and If Julia lives in Dibër County then Julia lives in Albania,4
+If Julia lives in Bashkia Bulqizë then Julia lives in Europe and If Julia lives in Dibër County then Julia lives in Europe,4
+If Julia lives in Bashkia Bulqizë then Julia lives in Albania or If Julia lives in Dibër County then Julia lives in Albania,5
+If Julia lives in Bashkia Bulqizë then Julia lives in Europe or If Julia lives in Dibër County then Julia lives in Europe,5
+If Diana lives in Bashkia Klos then Diana lives in Dibër County,1
+If Diana lives in Bashkia Klos then Diana lives in Albania,1
+If Diana lives in Bashkia Klos then Diana lives in Europe,1
+If Diana lives in Dibër County then Diana lives in Albania,1
+If Diana lives in Dibër County then Diana lives in Europe,1
+If Diana lives in Albania then Diana lives in Europe,1
+If Diana lives in Bashkia Klos then Diana lives in Dibër County and If Diana lives in Bashkia Klos then Diana lives in Albania,2
+If Diana lives in Bashkia Klos then Diana lives in Dibër County or If Diana lives in Bashkia Klos then Diana lives in Albania,3
+If Diana lives in Bashkia Klos then Diana lives in Albania and If Diana lives in Dibër County then Diana lives in Albania,4
+If Diana lives in Bashkia Klos then Diana lives in Europe and If Diana lives in Dibër County then Diana lives in Europe,4
+If Diana lives in Bashkia Klos then Diana lives in Albania or If Diana lives in Dibër County then Diana lives in Albania,5
+If Diana lives in Bashkia Klos then Diana lives in Europe or If Diana lives in Dibër County then Diana lives in Europe,5
+If Quincy lives in Bashkia Mat then Quincy lives in Dibër County,1
+If Quincy lives in Bashkia Mat then Quincy lives in Albania,1
+If Quincy lives in Bashkia Mat then Quincy lives in Europe,1
+If Quincy lives in Dibër County then Quincy lives in Albania,1
+If Quincy lives in Dibër County then Quincy lives in Europe,1
+If Quincy lives in Albania then Quincy lives in Europe,1
+If Quincy lives in Bashkia Mat then Quincy lives in Dibër County and If Quincy lives in Bashkia Mat then Quincy lives in Albania,2
+If Quincy lives in Bashkia Mat then Quincy lives in Dibër County or If Quincy lives in Bashkia Mat then Quincy lives in Albania,3
+If Quincy lives in Bashkia Mat then Quincy lives in Albania and If Quincy lives in Dibër County then Quincy lives in Albania,4
+If Quincy lives in Bashkia Mat then Quincy lives in Europe and If Quincy lives in Dibër County then Quincy lives in Europe,4
+If Quincy lives in Bashkia Mat then Quincy lives in Albania or If Quincy lives in Dibër County then Quincy lives in Albania,5
+If Quincy lives in Bashkia Mat then Quincy lives in Europe or If Quincy lives in Dibër County then Quincy lives in Europe,5
+If Paula lives in Bulqizë then Paula lives in Dibër County,1
+If Paula lives in Bulqizë then Paula lives in Albania,1
+If Paula lives in Bulqizë then Paula lives in Europe,1
+If Paula lives in Dibër County then Paula lives in Albania,1
+If Paula lives in Dibër County then Paula lives in Europe,1
+If Paula lives in Albania then Paula lives in Europe,1
+If Paula lives in Bulqizë then Paula lives in Dibër County and If Paula lives in Bulqizë then Paula lives in Albania,2
+If Paula lives in Bulqizë then Paula lives in Dibër County or If Paula lives in Bulqizë then Paula lives in Albania,3
+If Paula lives in Bulqizë then Paula lives in Albania and If Paula lives in Dibër County then Paula lives in Albania,4
+If Paula lives in Bulqizë then Paula lives in Europe and If Paula lives in Dibër County then Paula lives in Europe,4
+If Paula lives in Bulqizë then Paula lives in Albania or If Paula lives in Dibër County then Paula lives in Albania,5
+If Paula lives in Bulqizë then Paula lives in Europe or If Paula lives in Dibër County then Paula lives in Europe,5
+If Steve lives in Burrel then Steve lives in Dibër County,1
+If Steve lives in Burrel then Steve lives in Albania,1
+If Steve lives in Burrel then Steve lives in Europe,1
+If Steve lives in Dibër County then Steve lives in Albania,1
+If Steve lives in Dibër County then Steve lives in Europe,1
+If Steve lives in Albania then Steve lives in Europe,1
+If Steve lives in Burrel then Steve lives in Dibër County and If Steve lives in Burrel then Steve lives in Albania,2
+If Steve lives in Burrel then Steve lives in Dibër County or If Steve lives in Burrel then Steve lives in Albania,3
+If Steve lives in Burrel then Steve lives in Albania and If Steve lives in Dibër County then Steve lives in Albania,4
+If Steve lives in Burrel then Steve lives in Europe and If Steve lives in Dibër County then Steve lives in Europe,4
+If Steve lives in Burrel then Steve lives in Albania or If Steve lives in Dibër County then Steve lives in Albania,5
+If Steve lives in Burrel then Steve lives in Europe or If Steve lives in Dibër County then Steve lives in Europe,5
+If George lives in Klos then George lives in Dibër County,1
+If George lives in Klos then George lives in Albania,1
+If George lives in Klos then George lives in Europe,1
+If George lives in Dibër County then George lives in Albania,1
+If George lives in Dibër County then George lives in Europe,1
+If George lives in Albania then George lives in Europe,1
+If George lives in Klos then George lives in Dibër County and If George lives in Klos then George lives in Albania,2
+If George lives in Klos then George lives in Dibër County or If George lives in Klos then George lives in Albania,3
+If George lives in Klos then George lives in Albania and If George lives in Dibër County then George lives in Albania,4
+If George lives in Klos then George lives in Europe and If George lives in Dibër County then George lives in Europe,4
+If George lives in Klos then George lives in Albania or If George lives in Dibër County then George lives in Albania,5
+If George lives in Klos then George lives in Europe or If George lives in Dibër County then George lives in Europe,5
+If Kevin lives in Peshkopi then Kevin lives in Dibër County,1
+If Kevin lives in Peshkopi then Kevin lives in Albania,1
+If Kevin lives in Peshkopi then Kevin lives in Europe,1
+If Kevin lives in Dibër County then Kevin lives in Albania,1
+If Kevin lives in Dibër County then Kevin lives in Europe,1
+If Kevin lives in Albania then Kevin lives in Europe,1
+If Kevin lives in Peshkopi then Kevin lives in Dibër County and If Kevin lives in Peshkopi then Kevin lives in Albania,2
+If Kevin lives in Peshkopi then Kevin lives in Dibër County or If Kevin lives in Peshkopi then Kevin lives in Albania,3
+If Kevin lives in Peshkopi then Kevin lives in Albania and If Kevin lives in Dibër County then Kevin lives in Albania,4
+If Kevin lives in Peshkopi then Kevin lives in Europe and If Kevin lives in Dibër County then Kevin lives in Europe,4
+If Kevin lives in Peshkopi then Kevin lives in Albania or If Kevin lives in Dibër County then Kevin lives in Albania,5
+If Kevin lives in Peshkopi then Kevin lives in Europe or If Kevin lives in Dibër County then Kevin lives in Europe,5
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Dibër County,1
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Albania,1
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Europe,1
+If Quincy lives in Dibër County then Quincy lives in Albania,1
+If Quincy lives in Dibër County then Quincy lives in Europe,1
+If Quincy lives in Albania then Quincy lives in Europe,1
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Dibër County and If Quincy lives in Rrethi i Bulqizës then Quincy lives in Albania,2
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Dibër County or If Quincy lives in Rrethi i Bulqizës then Quincy lives in Albania,3
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Albania and If Quincy lives in Dibër County then Quincy lives in Albania,4
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Europe and If Quincy lives in Dibër County then Quincy lives in Europe,4
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Albania or If Quincy lives in Dibër County then Quincy lives in Albania,5
+If Quincy lives in Rrethi i Bulqizës then Quincy lives in Europe or If Quincy lives in Dibër County then Quincy lives in Europe,5
+If Julia lives in Rrethi i Dibrës then Julia lives in Dibër County,1
+If Julia lives in Rrethi i Dibrës then Julia lives in Albania,1
+If Julia lives in Rrethi i Dibrës then Julia lives in Europe,1
+If Julia lives in Dibër County then Julia lives in Albania,1
+If Julia lives in Dibër County then Julia lives in Europe,1
+If Julia lives in Albania then Julia lives in Europe,1
+If Julia lives in Rrethi i Dibrës then Julia lives in Dibër County and If Julia lives in Rrethi i Dibrës then Julia lives in Albania,2
+If Julia lives in Rrethi i Dibrës then Julia lives in Dibër County or If Julia lives in Rrethi i Dibrës then Julia lives in Albania,3
+If Julia lives in Rrethi i Dibrës then Julia lives in Albania and If Julia lives in Dibër County then Julia lives in Albania,4
+If Julia lives in Rrethi i Dibrës then Julia lives in Europe and If Julia lives in Dibër County then Julia lives in Europe,4
+If Julia lives in Rrethi i Dibrës then Julia lives in Albania or If Julia lives in Dibër County then Julia lives in Albania,5
+If Julia lives in Rrethi i Dibrës then Julia lives in Europe or If Julia lives in Dibër County then Julia lives in Europe,5
+If Fiona lives in Rrethi i Matit then Fiona lives in Dibër County,1
+If Fiona lives in Rrethi i Matit then Fiona lives in Albania,1
+If Fiona lives in Rrethi i Matit then Fiona lives in Europe,1
+If Fiona lives in Dibër County then Fiona lives in Albania,1
+If Fiona lives in Dibër County then Fiona lives in Europe,1
+If Fiona lives in Albania then Fiona lives in Europe,1
+If Fiona lives in Rrethi i Matit then Fiona lives in Dibër County and If Fiona lives in Rrethi i Matit then Fiona lives in Albania,2
+If Fiona lives in Rrethi i Matit then Fiona lives in Dibër County or If Fiona lives in Rrethi i Matit then Fiona lives in Albania,3
+If Fiona lives in Rrethi i Matit then Fiona lives in Albania and If Fiona lives in Dibër County then Fiona lives in Albania,4
+If Fiona lives in Rrethi i Matit then Fiona lives in Europe and If Fiona lives in Dibër County then Fiona lives in Europe,4
+If Fiona lives in Rrethi i Matit then Fiona lives in Albania or If Fiona lives in Dibër County then Fiona lives in Albania,5
+If Fiona lives in Rrethi i Matit then Fiona lives in Europe or If Fiona lives in Dibër County then Fiona lives in Europe,5
+If Rachel lives in Ulëz then Rachel lives in Dibër County,1
+If Rachel lives in Ulëz then Rachel lives in Albania,1
+If Rachel lives in Ulëz then Rachel lives in Europe,1
+If Rachel lives in Dibër County then Rachel lives in Albania,1
+If Rachel lives in Dibër County then Rachel lives in Europe,1
+If Rachel lives in Albania then Rachel lives in Europe,1
+If Rachel lives in Ulëz then Rachel lives in Dibër County and If Rachel lives in Ulëz then Rachel lives in Albania,2
+If Rachel lives in Ulëz then Rachel lives in Dibër County or If Rachel lives in Ulëz then Rachel lives in Albania,3
+If Rachel lives in Ulëz then Rachel lives in Albania and If Rachel lives in Dibër County then Rachel lives in Albania,4
+If Rachel lives in Ulëz then Rachel lives in Europe and If Rachel lives in Dibër County then Rachel lives in Europe,4
+If Rachel lives in Ulëz then Rachel lives in Albania or If Rachel lives in Dibër County then Rachel lives in Albania,5
+If Rachel lives in Ulëz then Rachel lives in Europe or If Rachel lives in Dibër County then Rachel lives in Europe,5
+If Kevin lives in Bashkia Durrës then Kevin lives in Durrës District,1
+If Kevin lives in Bashkia Durrës then Kevin lives in Albania,1
+If Kevin lives in Bashkia Durrës then Kevin lives in Europe,1
+If Kevin lives in Durrës District then Kevin lives in Albania,1
+If Kevin lives in Durrës District then Kevin lives in Europe,1
+If Kevin lives in Albania then Kevin lives in Europe,1
+If Kevin lives in Bashkia Durrës then Kevin lives in Durrës District and If Kevin lives in Bashkia Durrës then Kevin lives in Albania,2
+If Kevin lives in Bashkia Durrës then Kevin lives in Durrës District or If Kevin lives in Bashkia Durrës then Kevin lives in Albania,3
+If Kevin lives in Bashkia Durrës then Kevin lives in Albania and If Kevin lives in Durrës District then Kevin lives in Albania,4
+If Kevin lives in Bashkia Durrës then Kevin lives in Europe and If Kevin lives in Durrës District then Kevin lives in Europe,4
+If Kevin lives in Bashkia Durrës then Kevin lives in Albania or If Kevin lives in Durrës District then Kevin lives in Albania,5
+If Kevin lives in Bashkia Durrës then Kevin lives in Europe or If Kevin lives in Durrës District then Kevin lives in Europe,5
+If Oscar lives in Bashkia Krujë then Oscar lives in Durrës District,1
+If Oscar lives in Bashkia Krujë then Oscar lives in Albania,1
+If Oscar lives in Bashkia Krujë then Oscar lives in Europe,1
+If Oscar lives in Durrës District then Oscar lives in Albania,1
+If Oscar lives in Durrës District then Oscar lives in Europe,1
+If Oscar lives in Albania then Oscar lives in Europe,1
+If Oscar lives in Bashkia Krujë then Oscar lives in Durrës District and If Oscar lives in Bashkia Krujë then Oscar lives in Albania,2
+If Oscar lives in Bashkia Krujë then Oscar lives in Durrës District or If Oscar lives in Bashkia Krujë then Oscar lives in Albania,3
+If Oscar lives in Bashkia Krujë then Oscar lives in Albania and If Oscar lives in Durrës District then Oscar lives in Albania,4
+If Oscar lives in Bashkia Krujë then Oscar lives in Europe and If Oscar lives in Durrës District then Oscar lives in Europe,4
+If Oscar lives in Bashkia Krujë then Oscar lives in Albania or If Oscar lives in Durrës District then Oscar lives in Albania,5
+If Oscar lives in Bashkia Krujë then Oscar lives in Europe or If Oscar lives in Durrës District then Oscar lives in Europe,5
+If Diana lives in Bashkia Shijak then Diana lives in Durrës District,1
+If Diana lives in Bashkia Shijak then Diana lives in Albania,1
+If Diana lives in Bashkia Shijak then Diana lives in Europe,1
+If Diana lives in Durrës District then Diana lives in Albania,1
+If Diana lives in Durrës District then Diana lives in Europe,1
+If Diana lives in Albania then Diana lives in Europe,1
+If Diana lives in Bashkia Shijak then Diana lives in Durrës District and If Diana lives in Bashkia Shijak then Diana lives in Albania,2
+If Diana lives in Bashkia Shijak then Diana lives in Durrës District or If Diana lives in Bashkia Shijak then Diana lives in Albania,3
+If Diana lives in Bashkia Shijak then Diana lives in Albania and If Diana lives in Durrës District then Diana lives in Albania,4
+If Diana lives in Bashkia Shijak then Diana lives in Europe and If Diana lives in Durrës District then Diana lives in Europe,4
+If Diana lives in Bashkia Shijak then Diana lives in Albania or If Diana lives in Durrës District then Diana lives in Albania,5
+If Diana lives in Bashkia Shijak then Diana lives in Europe or If Diana lives in Durrës District then Diana lives in Europe,5
+If Mason lives in Durrës then Mason lives in Durrës District,1
+If Mason lives in Durrës then Mason lives in Albania,1
+If Mason lives in Durrës then Mason lives in Europe,1
+If Mason lives in Durrës District then Mason lives in Albania,1
+If Mason lives in Durrës District then Mason lives in Europe,1
+If Mason lives in Albania then Mason lives in Europe,1
+If Mason lives in Durrës then Mason lives in Durrës District and If Mason lives in Durrës then Mason lives in Albania,2
+If Mason lives in Durrës then Mason lives in Durrës District or If Mason lives in Durrës then Mason lives in Albania,3
+If Mason lives in Durrës then Mason lives in Albania and If Mason lives in Durrës District then Mason lives in Albania,4
+If Mason lives in Durrës then Mason lives in Europe and If Mason lives in Durrës District then Mason lives in Europe,4
+If Mason lives in Durrës then Mason lives in Albania or If Mason lives in Durrës District then Mason lives in Albania,5
+If Mason lives in Durrës then Mason lives in Europe or If Mason lives in Durrës District then Mason lives in Europe,5
+If Ian lives in Durrës District then Ian lives in Durrës District,1
+If Ian lives in Durrës District then Ian lives in Albania,1
+If Ian lives in Durrës District then Ian lives in Europe,1
+If Ian lives in Durrës District then Ian lives in Albania,1
+If Ian lives in Durrës District then Ian lives in Europe,1
+If Ian lives in Albania then Ian lives in Europe,1
+If Ian lives in Durrës District then Ian lives in Durrës District and If Ian lives in Durrës District then Ian lives in Albania,2
+If Ian lives in Durrës District then Ian lives in Durrës District or If Ian lives in Durrës District then Ian lives in Albania,3
+If Ian lives in Durrës District then Ian lives in Albania and If Ian lives in Durrës District then Ian lives in Albania,4
+If Ian lives in Durrës District then Ian lives in Europe and If Ian lives in Durrës District then Ian lives in Europe,4
+If Ian lives in Durrës District then Ian lives in Albania or If Ian lives in Durrës District then Ian lives in Albania,5
+If Ian lives in Durrës District then Ian lives in Europe or If Ian lives in Durrës District then Ian lives in Europe,5
+If Alice lives in Fushë-Krujë then Alice lives in Durrës District,1
+If Alice lives in Fushë-Krujë then Alice lives in Albania,1
+If Alice lives in Fushë-Krujë then Alice lives in Europe,1
+If Alice lives in Durrës District then Alice lives in Albania,1
+If Alice lives in Durrës District then Alice lives in Europe,1
+If Alice lives in Albania then Alice lives in Europe,1
+If Alice lives in Fushë-Krujë then Alice lives in Durrës District and If Alice lives in Fushë-Krujë then Alice lives in Albania,2
+If Alice lives in Fushë-Krujë then Alice lives in Durrës District or If Alice lives in Fushë-Krujë then Alice lives in Albania,3
+If Alice lives in Fushë-Krujë then Alice lives in Albania and If Alice lives in Durrës District then Alice lives in Albania,4
+If Alice lives in Fushë-Krujë then Alice lives in Europe and If Alice lives in Durrës District then Alice lives in Europe,4
+If Alice lives in Fushë-Krujë then Alice lives in Albania or If Alice lives in Durrës District then Alice lives in Albania,5
+If Alice lives in Fushë-Krujë then Alice lives in Europe or If Alice lives in Durrës District then Alice lives in Europe,5
+If Walter lives in Krujë then Walter lives in Durrës District,1
+If Walter lives in Krujë then Walter lives in Albania,1
+If Walter lives in Krujë then Walter lives in Europe,1
+If Walter lives in Durrës District then Walter lives in Albania,1
+If Walter lives in Durrës District then Walter lives in Europe,1
+If Walter lives in Albania then Walter lives in Europe,1
+If Walter lives in Krujë then Walter lives in Durrës District and If Walter lives in Krujë then Walter lives in Albania,2
+If Walter lives in Krujë then Walter lives in Durrës District or If Walter lives in Krujë then Walter lives in Albania,3
+If Walter lives in Krujë then Walter lives in Albania and If Walter lives in Durrës District then Walter lives in Albania,4
+If Walter lives in Krujë then Walter lives in Europe and If Walter lives in Durrës District then Walter lives in Europe,4
+If Walter lives in Krujë then Walter lives in Albania or If Walter lives in Durrës District then Walter lives in Albania,5
+If Walter lives in Krujë then Walter lives in Europe or If Walter lives in Durrës District then Walter lives in Europe,5
+If Zane lives in Rrethi i Krujës then Zane lives in Durrës District,1
+If Zane lives in Rrethi i Krujës then Zane lives in Albania,1
+If Zane lives in Rrethi i Krujës then Zane lives in Europe,1
+If Zane lives in Durrës District then Zane lives in Albania,1
+If Zane lives in Durrës District then Zane lives in Europe,1
+If Zane lives in Albania then Zane lives in Europe,1
+If Zane lives in Rrethi i Krujës then Zane lives in Durrës District and If Zane lives in Rrethi i Krujës then Zane lives in Albania,2
+If Zane lives in Rrethi i Krujës then Zane lives in Durrës District or If Zane lives in Rrethi i Krujës then Zane lives in Albania,3
+If Zane lives in Rrethi i Krujës then Zane lives in Albania and If Zane lives in Durrës District then Zane lives in Albania,4
+If Zane lives in Rrethi i Krujës then Zane lives in Europe and If Zane lives in Durrës District then Zane lives in Europe,4
+If Zane lives in Rrethi i Krujës then Zane lives in Albania or If Zane lives in Durrës District then Zane lives in Albania,5
+If Zane lives in Rrethi i Krujës then Zane lives in Europe or If Zane lives in Durrës District then Zane lives in Europe,5
+If Steve lives in Shijak then Steve lives in Durrës District,1
+If Steve lives in Shijak then Steve lives in Albania,1
+If Steve lives in Shijak then Steve lives in Europe,1
+If Steve lives in Durrës District then Steve lives in Albania,1
+If Steve lives in Durrës District then Steve lives in Europe,1
+If Steve lives in Albania then Steve lives in Europe,1
+If Steve lives in Shijak then Steve lives in Durrës District and If Steve lives in Shijak then Steve lives in Albania,2
+If Steve lives in Shijak then Steve lives in Durrës District or If Steve lives in Shijak then Steve lives in Albania,3
+If Steve lives in Shijak then Steve lives in Albania and If Steve lives in Durrës District then Steve lives in Albania,4
+If Steve lives in Shijak then Steve lives in Europe and If Steve lives in Durrës District then Steve lives in Europe,4
+If Steve lives in Shijak then Steve lives in Albania or If Steve lives in Durrës District then Steve lives in Albania,5
+If Steve lives in Shijak then Steve lives in Europe or If Steve lives in Durrës District then Steve lives in Europe,5
